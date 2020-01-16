@@ -1,0 +1,12 @@
+collections:
+  experiments:
+    output: true
+
+permalink: /:year/:month/:day/:title/
+
+#baseurl: /website
+
+plugins:
+  - jekyll-feed
+
+excerpt_separator: <!-- more -->

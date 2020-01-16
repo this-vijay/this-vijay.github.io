@@ -1,0 +1,11 @@
+---
+layout: article-writing
+---
+
+<ul class="subnav">
+  <li><a href="{{site.baseurl}}/outreach/">Outreach</a></li>
+  <li><a href="{{site.baseurl}}/teaching/">Teaching</a></li>
+  <li><a href="{{site.baseurl}}/research/">Research</a></li>
+</ul>
+
+{{ content }}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'/>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>{{page.title}}</title>
+    <link rel='stylesheet' href='{{site.baseurl}}/css/style.css'/>
+    <!--<script src="{{site.baseurl}}/js/libraries/prefixfree.min.js"></script>-->
+    <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans" rel="stylesheet">
+  </head>
+
+  <body>
+      <nav>
+        <div class="info">
+          <div class="name"><a href="{{site.baseurl}}/">Vijay Ravikumar</a></div>
+          <aside> &nbsp </aside>
+	  <aside>  <img src="../images/icons/favicon.png" class="shrinkToFit" height="100"> </aside>
+        </div>
+        <div class="menu">
+          <ul>
+            {% assign nav_pages = site.pages | sort: 'nav_order' %}
+            {% for p in nav_pages %}
+              {% if p.nav_order %}
+                <li>
+                  {% if p.url contains ".com" %}   <!-- hack to link to external URLs -->
+                  <a href="{{ "https:/" | append: p.url }}">{{ p.title }}</a>
+                  {% else %}
+		  <aside>  &nbsp </aside>
+                  <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+                  {% endif %}
+                </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="social">
+            <ul>
+            <li><a href="mailto:aatish+web@gmail.com"><img alt="Email" width="20" height="20" src="{{site.baseurl}}/images/icons/mail.svg"></a></li>
+            <li><a href="https://twitter.com/aatishb"><img alt="Twitter" width="20" height="20" src="{{site.baseurl}}/images/icons/twitter.svg"></a></li>
+            <li><a href="https://github.com/aatishb"><img alt="Github" width="20" height="20" src="{{site.baseurl}}/images/icons/github.svg"></a></li>
+            </ul>
+        </div>
+      </nav>
+
+      {{content}}
+
+  </body>
+
+</html>

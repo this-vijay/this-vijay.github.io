@@ -1,0 +1,446 @@
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Introduction to Manifolds&lt;title&gt;
+      &lt;script type="text/javascript"
+      src="https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"&gt;
+&lt;/script&gt;
+
+
+
+
+
+
+
+
+    </title>
+  </head>
+  <body style="background-color: white;" link="blue" vlink="darkblue">
+    <div align="center">&nbsp; <big><b><big>Introduction to Manifolds<br>
+            &nbsp;<small>August-November 2015</small><br>
+          </big></b></big>
+      <hr size="2" width="100%">
+      <div align="left"><big><b>Course description:</b></big>  <br>
+        &nbsp; <br>
+        <big><b>Prerequisites: </b><small>Undergraduate calculus sequence, linear algebra, and basic point-set topology. </small><br>
+        </big></div>
+    </div>
+    <hr><br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    &nbsp;
+    <table align="center" border="1" height="556" width="900">
+      <tbody>
+        <tr align="left">
+          <td width="190"><strong>Lectures: </strong></td>
+          <td width="700">&nbsp;Tuesday and Thursday, 11:50 - 13:05<br>
+          </td>
+        </tr>
+        <tr align="left">
+          <td width="190"> <b>Classroom</b><b>:</b><br>
+          </td>
+          <td width="700">&nbsp;Lecture Hall 3<br>
+          </td>
+        </tr>
+        <tr align="left">
+          <td width="190"><strong>Instructor: </strong></td>
+          <td width="700">&nbsp;Vijay Ravikumar</td>
+        </tr>
+        <tr align="left">
+          <th rowspan="3" width="190"><b>Contact:</b> </th>
+          <td width="700"><i>&nbsp;Office:</i> 409 </td>
+        </tr>
+        <tr align="left">
+          <td width="700"><i>&nbsp;Phone:</i> 963</td>
+        </tr>
+        <tr align="left">
+          <td width="700"><i>&nbsp;Email:</i> vijayr AT cmi DOT ac DOT
+            in </td>
+        </tr>
+        <tr align="left">
+          <td width="190"><strong>Office Hours: </strong>
+          </td>
+          <td width="700">&nbsp;Tuesdays
+            and Thursdays: 14:00 - 15:00 p.m.
+          </td>
+        </tr>
+        <tr align="left">
+          <td width="190"><strong>Textbook: </strong></td>
+          <td width="700">&nbsp;<i>An Introduction to Manifolds</i> by Loring Tu, Second edition, Universitext (2010)</td>
+        </tr>
+        <tr valign="top">
+          <td align="left" width="190"><strong>Grading:</strong></td>
+          <td align="left" width="700">
+            <ul>
+            </ul>
+            &nbsp; 30% - Final exam<br>
+            &nbsp; 30% - Homework<br>
+            &nbsp; 30% - Midterm<br>
+            &nbsp; 10% - Instructor's discretion (based on
+            attendance, class participation, punctuality etc.)<br>
+            &nbsp; All grades will be uploaded on Moodle.<br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <big><b><br>
+        Course components<br>
+      </b><small><br>
+        The course will consist of in-class lectures during all weeks of
+        the semester. <br>
+        Homework will be assigned every week (barring only exam weeks).
+        <br>
+        There will be a midterm and a&nbsp; final examination.<br>
+      </small><b> </b></big>
+    <ol>
+    </ol>
+    <ul>
+    </ul>
+    <hr>
+    <h3>Homework </h3>
+    Homework will be posted on this website every Sunday night and will
+    be due in one week (on the following Tuesday). <br>
+    You may pick up the graded homework on Thursdays. <br>
+    <ul>
+      <li>Late submissions will carry penalties.</li>
+      <li>You may work alone or in groups to do your homework. Feel free
+        to approach the instructor or TA if you have questions/doubts.
+        However, <b>you must write your own solutions.</b></li>
+    </ul>
+    <ul>
+    </ul>
+    <hr><big><b>Project<br>
+        <br>
+      </b><small>The project consists of writing an article based on
+        your chosen topic and a 20-minute class presentation. The
+        project schedule is as follows:<br>
+      </small><br>
+    </big>
+    <div style="color: rgb(34, 34, 34); font-size: 12.7273px;
+      font-style: normal; font-variant: normal; font-weight: normal;
+      letter-spacing: normal; line-height: normal; text-align: start;
+      text-indent: 0px; text-transform: none; white-space: normal;
+      word-spacing: 0px; background-color: rgb(255, 255, 255);"><big><b>20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          February</b>: first<span class="Apple-converted-space">&nbsp;</span><span
+          class="il" style="background-color: rgb(255, 255, 204); color:
+          rgb(34, 34, 34); background-position: initial initial;
+          background-repeat: initial initial;">project</span><span
+          class="Apple-converted-space">&nbsp;</span>report</big></div>
+    <div style="color: rgb(34, 34, 34); font-size: 12.7273px;
+      font-style: normal; font-variant: normal; font-weight: normal;
+      letter-spacing: normal; line-height: normal; text-align: start;
+      text-indent: 0px; text-transform: none; white-space: normal;
+      word-spacing: 0px; background-color: rgb(255, 255, 255);"><big><b>17
+
+
+
+
+
+
+
+
+
+
+
+          March</b>: second<span class="Apple-converted-space">&nbsp;</span><span
+          class="il" style="background-color: rgb(255, 255, 204); color:
+          rgb(34, 34, 34); background-position: initial initial;
+          background-repeat: initial initial;">project</span><span
+          class="Apple-converted-space">&nbsp;</span>report</big></div>
+    <div style="color: rgb(34, 34, 34); font-size: 12.7273px;
+      font-style: normal; font-variant: normal; font-weight: normal;
+      letter-spacing: normal; line-height: normal; text-align: start;
+      text-indent: 0px; text-transform: none; white-space: normal;
+      word-spacing: 0px; background-color: rgb(255, 255, 255);"><big><b>April
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          first week</b>: class presentations begin</big></div>
+    <div style="color: rgb(34, 34, 34); font-size: 12.7273px;
+      font-style: normal; font-variant: normal; font-weight: normal;
+      letter-spacing: normal; line-height: normal; text-align: start;
+      text-indent: 0px; text-transform: none; white-space: normal;
+      word-spacing: 0px; background-color: rgb(255, 255, 255);"><big><b>20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          April</b>: Final report/article submission.<br>
+        <br>
+        All submission must be typeset in LaTeX.</big><br
+        class="Apple-interchange-newline">
+    </div>
+    <hr size="2" width="100%"><big><b>Attendance</b></big> <br>
+    <p>Attendance to classes is not required but absences will be noted.
+      Explanation for longer absences (more than one class) is required.
+      <br>
+    </p>
+    <hr size="2" width="100%"><big><b>Warning against copying/plagiarism</b></big><br>
+    <br>
+    Please be warned that I will not tolerate any kind of plagiarism in
+    your work. You are free to search for ideas on the internet and in
+    books but the details and work have to be your own. <br>
+    <br>
+    According to the Merriam-Webster OnLine Dictionary, to plagiarize
+    means:<br>
+    <ul>
+      <li>to steal and pass off (the ideas or words of another) as
+        one's own</li>
+      <li>to use (another's production) without crediting the source;</li>
+      <li>to commit literary theft;</li>
+      <li>to present as new and original an idea or product derived from
+        an existing source.</li>
+    </ul>
+    S<i>ynonyms: copying, appropriation, infringement, piracy,
+      counterfeiting, theft, borrowing. &nbsp; &nbsp; <br>
+      <br>
+    </i> &nbsp;Please visit <a
+href="file:///C:/Users/Kavita/Documents/Personal%20documents/webpage/www.plagiarism.org">www.plagiarism.org</a>
+    for more details. <br>
+    <hr size="2" width="100%"> <big><b>Schedule</b></big><br>
+    <br>
+    <table align="center" border="1" cellpadding="2" cellspacing="2"
+      height="1214" width="800">
+      <tbody>
+        <tr>
+          <td height="10" valign="top" width="175"><b>Week</b><br>
+          </td>
+          <td valign="top"><b>Topic</b><b><br>
+            </b></td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">1 (03 Aug - 07 Aug)<br>
+          </td>
+          <td height="10" valign="top">Smooth functions, tangent 			vectors,<br> and vector fields in Euclidean space.<br>
+            <i><a href="HW1.pdf">Homework 1</a> (due on 11 Aug)</i></td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">2 (10 Aug - 14 Aug) <br>
+            <br>
+          </td>
+          <td height="10" valign="top">Multilinear algebra, and <br> differential forms on Euclidean space.<i><br>
+            </i><i><i><a href="HW2.pdf">Homework 2</a> </i>(due on
+              20/01)</i><br>
+            <i><font color="#ff0000">Holiday on 14 January (Pongal).</font></i><br>
+          </td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">3 (17 Aug - 21 Aug) <br>
+            <br>
+          </td>
+          <td height="10" valign="top">Character theory.<br>
+            Lectures <a href="lecture5.pdf"><i>5</i></a> and <a
+              href="lecture6.pdf"><i>6</i></a>.<br>
+            <i><i><a href="HW3.pdf">Homework 3</a> </i>(due on 27/01)</i><i><br>
+            </i><i>Project proposal (due on 27/01)</i><br>
+          </td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">4 (24 Aug - 28 Aug) <br>
+            <br>
+          </td>
+          <td height="10" valign="top">Induced and restricted
+            representations.<br>
+            <i><a href="HW4.pdf">Homework 4</a> </i><i>(due on 03/02)<br>
+              <font color="#ff0000">Deadline for course registration -
+                31 January</font><br>
+            </i></td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">5 (31 Aug - 04 Sep)<br>
+          </td>
+          <td height="10" valign="top"> Young subgroups, tabloids,
+            ordering on partitions.<br>
+            <i><i><a href="HW5.pdf">Homework 5</a> </i>(due on 10/02)</i></td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">6 (07 Sep - 11 Sep)<br>
+          </td>
+          <td height="10" valign="top">Specht modules.<br>
+            <i><a href="HW6.pdf"><i>Homework 6 </i></a>(due on 17/02)</i></td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">7 (14 Sep - 18 Sep) <br>
+          </td>
+          <td height="10" valign="top"> <font color="#ff0000"><font
+                color="#000000">Dominance ordering on tabloids.</font><i><br>
+                No class on Wednesday 19/02.<br>
+                First project report due on 20/02.</i></font><br>
+          </td>
+        </tr>
+        <tr>
+          <td height="10" valign="top"><font color="#ff0000">22/02
+              (Saturday)</font><br>
+          </td>
+          <td valign="top"><font color="#ff0000">Midterm</font> <font
+              color="#ff0000">examination</font> (9:30 a.m. to 12:30
+            p.m.)<br>
+          </td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">8 (21 Sep - 25 Sep) <br>
+          </td>
+          <td height="10" valign="top"><i><font color="#ff0000">Mid-semester
+
+
+
+
+
+
+                exams week.</font><br>
+            </i></td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">9 (28 Sep - 02 Oct)<br>
+          </td>
+          <td height="10" valign="top">Straightening algorithm, basis of
+            standard tableaux<i><i>, </i></i>dimension of Specht
+            modules.<i><i><br>
+                <a href="HW7.pdf">Homework 7</a> </i>(due on 10/03)</i></td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">10 (05 Oct - 09 Oct)<br>
+          </td>
+          <td height="10" valign="top">The branching rule, decomposition
+            of \(M^{\mu}\)<i><i>. <br>
+                <a href="HW8.pdf">Homework 8</a> </i>(due on 17/03)</i>&nbsp;
+
+
+
+
+
+
+
+
+
+            <br>
+          </td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">11 (12 Oct - 16 Oct)<br>
+          </td>
+          <td height="10" valign="top"><font color="#ff0000"><font
+                color="#000000">R-S-K correspondence and some
+                applications.<br>
+              </font></font><font color="#ff0000"><font color="#000000"><i><i><a
+                      href="HW9.pdf">Homework 9</a> </i>(due on 24/03)<br>
+                </i></font><i>Second project report due on 17/03.</i></font><br>
+          </td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">12 (19 Oct - 23 Oct)<br>
+            <br>
+          </td>
+          <td height="10" valign="top">Combinatorial techniques<i><i>.<br>
+                <a href="HW10.pdf">Homework 10</a> </i>(due on 03/04)</i><br>
+          </td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">13 (26 Oct - 30 Oct)<br>
+          </td>
+          <td height="10" valign="top">Symmetric functions.<br>
+          </td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">14 (02 Nov - 06 Nov)<br>
+            <br>
+          </td>
+          <td height="10" valign="top">Project presentations week
+            (schedule below).<br>
+            <i><i><a href="HW11.pdf">Homework 11</a> </i>(due on 20/04)</i></td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">15 (09 Nov - 14 Nov)<br>
+            <br>
+          </td>
+          <td height="10" valign="top">Representation ring and
+            characters. <i><i><br>
+              </i></i><i><font color="#ff0000">Holiday on 18 April (Good
+                Friday).</font></i><br>
+          </td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">16 (16 Nov - 20 Nov)<br>
+          </td>
+          <td height="10" valign="top"><font color="#ff0000"><font
+                color="#000000">No classes.</font><i><br>
+                Final project submission due on 20/04.</i></font> </td>
+        </tr>
+        <tr>
+          <td height="10" valign="top"><font color="#ff0000">26/04
+              (Saturday)</font><br>
+          </td>
+          <td valign="top"><font color="#ff0000">Final</font> <font
+              color="#ff0000">examination</font> (9:30 a.m. to 12:30
+            p.m.)<br>
+          </td>
+        </tr>
+        <tr>
+          <td height="10" valign="top" width="175">17 (23 Nov - 27 Nov)</td>
+          <td height="10" valign="top"> <font color="#ff0000"><i>Final
+                exams week.<br>
+              </i></font></td>
+        </tr>
+      </tbody>
+    </table>
+    <b><br>
+    </b><b> </b>
+    <hr size="2" width="100%"><b>PROJECT REPORTS:</b><br>
+    1) <a href="sliding.pdf">Sliding (Jeu de Taquin)</a> - Arpita<br>
+    2) <a href="Viennot.pdf">Viennot's algorithm</a> - Ravitheja<br>
+    3) R-S-K correspondence - Dinesh Valluri<br>
+    4) Symmetric functions - Gautam Gopal<br>
+    5) <a href="Hookformula">Hook formula</a> - Navaneeth, JanakiRaman<br>
+    6) <a href="LRrule">Littlewood-Richardson rule</a> - Aman Barot<br>
+    7) <a href="MNrule.pdf">Murnaghan-Nakayama rule</a> - Chandranandan<br>
+    <br>
+    <br>
+    <br>
+    <center> <a href="../teaching.html">Back to my teaching page</a></center>
