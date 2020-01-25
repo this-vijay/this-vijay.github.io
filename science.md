@@ -1,5 +1,5 @@
 ---
-layout: art
+layout: illustration
 title: Science Illustration
 permalink: /science/
 ---

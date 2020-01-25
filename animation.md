@@ -1,5 +1,5 @@
 ---
-layout: art
+layout: illustration
 title: Animation
 permalink: /animation/
 ---

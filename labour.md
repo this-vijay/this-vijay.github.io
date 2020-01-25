@@ -1,5 +1,5 @@
 ---
-layout: art
+layout: illustration
 title: Labour Illustrations
 permalink: /labour/
 ---
