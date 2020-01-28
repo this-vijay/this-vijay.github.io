@@ -1,7 +1,7 @@
 ---
-layout: puppetry
-title: Puppetry Workshops
+layout: performance
+title: mask and puppetry workshops
 permalink: /workshops/
 ---
 
-images etc
+COMING SOON

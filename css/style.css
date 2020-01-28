@@ -153,7 +153,7 @@ section h2{
 
 nav {
 	display: flex;
-	background-color: rgb(10,10,10);
+	background-color: rgb(24,24,24);
 	color: grey;
 	width: 9em;
 	padding: 2.125em;
@@ -314,6 +314,7 @@ nav a:hover {
 /* wish I knew how to do this in flexbox */
 
 .pictures-container{
+  font-family: Georgia, serif;
     position: relative;
     width: 100%;
     display: flex;
