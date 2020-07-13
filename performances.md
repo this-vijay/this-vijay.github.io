@@ -13,7 +13,7 @@ Here are some of the performances I've been involved in:
 <p></p>
 
 <div class="pictures-container">
- <img src="../images/performance/kharms1.jpg" class="shrinkToFit" height="200">
+ <img src="../images/performance/kharms4.jpg" class="shrinkToFit" height="200">
 'Mondays are Best for Flying out of Windows' is a play inspired by the stories of Daniil Kharms (1905-1942), an early Soviet era absurdist poet, writer and dramatist. Kharms was often incarcerated by the Soviet regime for his unconventional and rebellious ways. His adult literature was not published during his lifetime and he was confined to writing for children. He is said to have starved to an anonymous death in the psychiatric ward of a Soviet hospital after his arrest in 1942.
 </div>
 
