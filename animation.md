@@ -10,6 +10,11 @@ youtubeId4: v16tecWv9ws
 
 ## The Aadamkhors
 
+
+
+{% include youtubePlayer.html id=page.youtubeId4 %}
+
+
 At around 5 AM on 8th December, 2019, a massive fire broke out in a
 luggage factory in the Anaj Mandi neighborhood of Delhi.  Over one
 hundred workers were sleeping on the upper floors of the factory when
@@ -22,17 +27,12 @@ managed to call his best friend Shobhit (Monu) Aggarwal moments before
 he died.  His phone call was recorded and briefly became a sensation
 in Indian media.
 
-The following is a short animation of a poem written by
+This is a short animation of a poem written by
 the actor Sushant Singh, who is from the same town as Shobhit.  The poem was
 inspired by this tragedy, and in particular by Musharraf and Shobhit’s final conversation.
  It was translated to Tamil by Muthuvel, and is performed here by Anandsami.
  
 <a href="https://youtu.be/WvidAnru_xg">We also created a Hindi version, performed by the author himself, Sushant Singh.</a>.
-
-
-{% include youtubePlayer.html id=page.youtubeId4 %}
-
-
 
 <hr>
 
