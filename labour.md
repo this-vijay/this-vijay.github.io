@@ -12,6 +12,24 @@ news portal <a href="http://www.tnlabour.in">Thozhilalar Koodam</a>.
 Here is a selection of my work.
 You can click any of the images for higher resolution versions.
 
+
+
+<hr>
+
+<h3><i>A factory fire in Delhi</i> (March 2020)</h3>
+
+
+At around 5 AM on 8th December, 2019, a massive fire broke out in a luggage factory in the Anaj Mandi neighborhood of Delhi.  Over one hundred workers were sleeping on the upper floors of the factory when the fire broke out, and found themselves trapped inside. The factory had been operating illegally without fire escapes, and the terrace door had been bolted shut. Many of the 59 workers rescued by the fire department suffered serious burn injuries. The remaining 43 workers perished in the flames. One of these 43 workers, Musharraf Ali, managed to call his best friend Shobhit (Monu) Aggarwal moments before he died.  His phone call was recorded and briefly became a sensation in Indian media.
+
+
+The following graphic, <a href="https://www.groundxero.in/2020/03/12/the-aadamkhors/"> first published in groundxero,</a> illustrates a poem by the actor Sushant Singh which was inspired by this tragedy, and in particular by Musharraf and Shobit’s final conversation.
+
+It was later published in Hindi in Mehnatkash, and adapted to videos in Tamil and Hindi.
+
+<center>
+<a href="../images/labour/scroll-lowres.jpg"><img SRC="../images/labour/aadamkhor_thumb.jpg" ALT=""></a>
+</center>
+
 <hr>
 
 <h3><i>Media bias in the MTC bus strike</i> (January 2018)</h3>
