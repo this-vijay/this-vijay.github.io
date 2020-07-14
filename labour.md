@@ -27,7 +27,7 @@ The following graphic, <a href="https://www.groundxero.in/2020/03/12/the-aadamkh
 It was later published in Hindi in Mehnatkash, and adapted to videos in Tamil and Hindi.
 
 <center>
-<a href="../images/labour/scroll-lowres.jpg"><img SRC="../images/labour/aadamkhor_thumb.jpg" ALT=""></a>
+<a href="../images/labour/scroll-lowres.jpg"><img SRC="../images/labour/scroll-lowres.jpg" ALT=""></a>
 </center>
 
 <hr>
