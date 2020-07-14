@@ -24,7 +24,8 @@ At around 5 AM on 8th December, 2019, a massive fire broke out in a luggage fact
 
 The following graphic, <a href="https://www.groundxero.in/2020/03/12/the-aadamkhors/"> first published in groundxero,</a> illustrates a poem by the actor Sushant Singh which was inspired by this tragedy, and in particular by Musharraf and Shobit’s final conversation.
 
-It was later published in Hindi in Mehnatkash, and adapted to videos in Tamil and Hindi.
+It was translated into English by Sushmita and into Tamil by Muthuvel.  It was later <a href="https://mehnatkash.in/2020/03/22/chitra-katha-this-fire-must-be-extinguished/"> published in Hindi in Mehnatkash </a>, <a href="https://youtu.be/v16tecWv9ws"> adapted to a video in Tamil narrated by Anandsami </a>, and finally <a href="https://www.facebook.com/WorkersUnity18/videos/734319700710547/"> adapted to a video in Hindi, narrated by the actor and poet  Sushant Singh. </a>
+ 
 
 <center>
 <a href="../images/labour/scroll-lowres.jpg"><img SRC="../images/labour/scroll-lowres.jpg" ALT=""></a>
