@@ -16,6 +16,21 @@ You can click any of the images for higher resolution versions.
 
 <hr>
 
+<h3><i>Labor laws dismantled amidst the brutal lockdown</i> (May 2020)</h3>
+
+<a href="https://tnlabour.in/art-life/10012">This cartoon was made with Thozhilalar Koodam, depicting migrant workers reaching home after walking hundreds of kilometers on foot, only to find existing labor laws have been destroyed.</a>
+  The banner reads 'UP Government welcomes workers home'.  The newspaper headline reads 'UP dismantles all labor laws'.
+
+<a href="https://www.groundxero.in/2020/06/23/the-pandemic-in-cartoons-part-2/">The graphic was later featured in a collection of cartoons by groundxero depicting the reality of India's harsh lockdown.</a>
+
+
+<center>
+<a href="../images/labour/bus_strike.jpg"><img SRC="../images/labour/bus_strike_small.jpg" ALT=""></a>
+</center>
+
+<hr>
+
+
 <h3><i>A factory fire in Delhi</i> (March 2020)</h3>
 
 
