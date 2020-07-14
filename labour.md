@@ -27,7 +27,7 @@ It was later
 
 
 <center>
-<a href="../images/labour/bus_strike.jpg"><img SRC="../images/labour/bus_strike_small.jpg" ALT=""></a>
+<a href="../images/labour/UP_migrants_tamil_small.jpg"><img SRC="../images/labour/UP_migrants_tamil_small.jpg" ALT=""></a>
 </center>
 
 <hr>
