@@ -27,7 +27,7 @@ Every time you move your head you are rotating the space around you.   And you
 
 With the help of a spherical puppet we'll try to count the dimensions of the space of rotations, and then try to understand the shape of this rather perplexing and counter-intuitive space: if you wear a belt or have a long plait of hair it'll come in handy here!
 
-To build your intution for this space, you will need to construct a spherical puppet of your own, which you will send on a journey through some very strange loops!  Finally, we'll enlist the aid of the Quaternion numbers to definitively know our place in the space of rotations.
+To build your intution for this space, you will construct a spherical puppet of your own, which you will send on a journey through some very strange loops!  Finally, we'll enlist the aid of the Quaternion numbers to definitively know our place in the space of rotations.
 
 For the sides to this talk <a href="../images/slides/spatial_rotations_talk.pdf">click here</a>.
 <hr>
