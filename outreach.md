@@ -30,6 +30,7 @@ With the help of a spherical puppet we'll try to count the dimensions of the spa
 To build your intution for this space, you will need to construct a spherical puppet of your own, which you will send on a journey through some very strange loops!  Finally, we'll enlist the aid of the Quaternion numbers to definitively know our place in the space of rotations.
 
 For the sides to this talk <a href="../images/slides/spatial_rotations_talk.pdf">click here</a>.
+<hr>
 
 ## Geometry of vision
 
