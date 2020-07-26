@@ -12,26 +12,6 @@ Over the past few years I've given a number of general audience talks for high s
 
 <hr>
 
-## Getting your head around spatial rotations
-
-Every time you move your head you are rotating the space around you.   And you do this constantly, every day, every minute, while you're awake and even while you're asleep.  But how well do you really know the collection of rotations of three dimensional space?
-
-<div class="pictures-container">
- <img src="../images/outreach/banana1.jpg" class="shrinkToFit" height="300">
-
- <img src="../images/outreach/banana2.jpg" class="shrinkToFit" height="300">
-
- <img src="../images/outreach/banana3.jpg" class="shrinkToFit" height="300">
-</div>
-
-
-With the help of a spherical puppet we'll try to count the dimensions of the space of rotations, and then try to understand the shape of this rather perplexing and counter-intuitive space: if you wear a belt or have a long plait of hair it'll come in handy here!
-
-To build your intution for this space, you will construct a spherical puppet of your own, which you will send on a journey through some very strange loops!  Finally, we'll enlist the aid of the Quaternion numbers to definitively know our place in the space of rotations.
-
-For the sides to this talk <a href="../images/slides/spatial_rotations_talk.pdf">click here</a>.
-<hr>
-
 ## Geometry of vision
 
 Which of the following viewpoints of the tiled floor would be easiest to draw?
@@ -62,6 +42,30 @@ For the worksheet <a href="../images/worksheets/perspective_worksheet.pdf">click
 
 This talk was partly based on  John Stillwell's excellent book <i>The Four Pillars of Geometry</i>.
 <hr>
+
+
+
+## Getting your head around spatial rotations
+
+Every time you move your head you are rotating the space around you.   And you do this constantly, every day, every minute, while you're awake and even while you're asleep.  But how well do you really know the collection of rotations of three dimensional space?
+
+<div class="pictures-container">
+ <img src="../images/outreach/banana1.jpg" class="shrinkToFit" height="300">
+
+ <img src="../images/outreach/banana2.jpg" class="shrinkToFit" height="300">
+
+ <img src="../images/outreach/banana3.jpg" class="shrinkToFit" height="300">
+</div>
+
+
+With the help of a spherical puppet we'll try to count the dimensions of the space of rotations, and then try to understand the shape of this rather perplexing and counter-intuitive space: if you wear a belt or have a long plait of hair it'll come in handy here!
+
+To build your intution for this space, you will construct a spherical puppet of your own, which you will send on a journey through some very strange loops!  Finally, we'll enlist the aid of the Quaternion numbers to definitively know our place in the space of rotations.
+
+For the sides to this talk <a href="../images/slides/spatial_rotations_talk.pdf">click here</a>.
+<hr>
+
+
 
 
 ## In search of a lost bicycle
