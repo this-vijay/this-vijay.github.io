@@ -7,13 +7,16 @@ permalink: /labour/
 
 
 A few years back I started drawing illustrations on labour issues, mostly for the labour
-news portal <a href="http://www.tnlabour.in">Thozhilalar Koodam</a>. 
+news portal <a href="http://www.tnlabour.in">Thozhilalar Koodam</a>.
 
 Here is a selection of my work.
 You can click any of the images for higher resolution versions.
 
 
 
+
+
+<!---
 <hr>
 
 <h3><i>Labor laws dismantled amidst the brutal lockdown</i> (May 2020)</h3>
@@ -22,13 +25,16 @@ You can click any of the images for higher resolution versions.
 and shows  migrant workers reaching home after walking hundreds of kilometers on foot, only to find existing labor laws have been destroyed.
   The banner reads 'UP Government welcomes workers home'.  The newspaper headline reads 'UP dismantles all labor laws'.
 
-It was later 
+It was later
 <a href="https://www.groundxero.in/2020/06/23/the-pandemic-in-cartoons-part-2/">featured in a collection of cartoons by groundxero</a> depicting the reality of India's harsh lockdown
 
 
 <center>
 <a href="../images/labour/UP_migrants_tamil_small.jpg"><img SRC="../images/labour/UP_migrants_tamil_small.jpg" ALT=""></a>
 </center>
+your comment goes here
+and here
+-->
 
 <hr>
 
@@ -42,7 +48,7 @@ At around 5 AM on 8th December, 2019, a massive fire broke out in a luggage fact
 The following graphic, <a href="https://www.groundxero.in/2020/03/12/the-aadamkhors/"> first published in groundxero,</a> illustrates a poem by the actor Sushant Singh which was inspired by this tragedy, and in particular by Musharraf and Shobit’s final conversation.
 
 It was translated into English by Sushmita and into Tamil by Muthuvel.  It was later <a href="https://mehnatkash.in/2020/03/22/chitra-katha-this-fire-must-be-extinguished/"> published in Hindi in Mehnatkash </a>, <a href="https://youtu.be/v16tecWv9ws"> adapted to a video in Tamil narrated by Anandsami </a>, and finally <a href="https://www.facebook.com/WorkersUnity18/videos/734319700710547/"> adapted to a video in Hindi, narrated by the actor and poet  Sushant Singh. </a>
- 
+
 
 <center>
 <a href="../images/labour/scroll-lowres.jpg"><img SRC="../images/labour/scroll-lowres.jpg" ALT=""></a>
@@ -53,7 +59,7 @@ It was translated into English by Sushmita and into Tamil by Muthuvel.  It was l
 <h3><i>Media bias in the MTC bus strike</i> (January 2018)</h3>
 
 <a href="http://tnlabour.in/news/6302">The MTC went on strike for eight days in January, 2018.</a>
-This graphic was made with Thozhilalar Koodam 
+This graphic was made with Thozhilalar Koodam
 in solidarity with the the striking bus drivers and
 highlights the media bias in coverage. I also wanted to emphasize the importance of workers reaching
 out to the public for support.
@@ -107,10 +113,10 @@ way of graphically conveying this somewhat subtle idea.</p>
 
 
 <h3><i>Newsletter cover image</i> (October 2017)</h3>
-<p>In this cover for the Thozhilalar Koodam Workers' Newsletter, 
+<p>In this cover for the Thozhilalar Koodam Workers' Newsletter,
 we critique the media coverage of some of the initiatives of the Modi government that have
-been disastrous for the working class.  In particular, we linked demonetization and GST 
-with the labour reforms currently being pushed through. 
+been disastrous for the working class.  In particular, we linked demonetization and GST
+with the labour reforms currently being pushed through.
 For the Tamil version <a href="../images/labour/extras/labour_reforms_cover_tamil.jpg">click here</a>.</p>
 
 <center>
@@ -139,7 +145,7 @@ worker solidarity and militancy brimming beneath the surface.</p>
 
 
 <h3><i>Let's Break Free</i> (March 2017)</h3>
-<p><a href="http://tnlabour.in/women-workers/4854">Thozhilalar Koodam produced this graphic</a> in celebration 
+<p><a href="http://tnlabour.in/women-workers/4854">Thozhilalar Koodam produced this graphic</a> in celebration
 of International Women's Day, 2017.
 <a href="../images/labour/extras/womens_day_english_web.jpg">Click here for the English version.</a>
 </p>
@@ -151,12 +157,12 @@ of International Women's Day, 2017.
 
 <h3><i>The Story of the Garment Workers' Wage</i> (November, 2016)</h3>
 <p>
-On July 13, 2016, the Tamilnadu High Court ordered garment factories in and around Chennai 
-to uphold the minimum wage for garment workers, 
-overturning stay orders that had kept the wage stagnant for years. 
-This mandate did not appear out of nowhere, but was the culmination of years of struggle by labour union activists, 
-including the Garment and Fashion Workers Union (GAFWU), an independent trade union affiliated to NTUI. 
-<a href="http://tnlabour.in/factory-workers/4387">Thozhilalar Koodam teamed up with GAFWU</a> to make short comic explaining the struggle and its current objectives. 
+On July 13, 2016, the Tamilnadu High Court ordered garment factories in and around Chennai
+to uphold the minimum wage for garment workers,
+overturning stay orders that had kept the wage stagnant for years.
+This mandate did not appear out of nowhere, but was the culmination of years of struggle by labour union activists,
+including the Garment and Fashion Workers Union (GAFWU), an independent trade union affiliated to NTUI.
+<a href="http://tnlabour.in/factory-workers/4387">Thozhilalar Koodam teamed up with GAFWU</a> to make short comic explaining the struggle and its current objectives.
 The comic was printed in Tamil and distributed to garment workers by GAFWU as part of a campaign.
 (The Tamil version can be seen here:
 <a href="../images/labour/extras/garment_tamil_1.jpg">Page 1</a>,
@@ -178,14 +184,14 @@ The comic was printed in Tamil and distributed to garment workers by GAFWU as pa
 
 <h3><i>Why We Need a Minimum Wage Law</i> (March 2016)</h3>
 <p>
-A strong minimum wage law is an expression of worker solidarity across employment sector, 
+A strong minimum wage law is an expression of worker solidarity across employment sector,
 region, ethnicity, caste, and gender.  It is also a core demand of the labour movement.    
 In order to better understand this fight,
-<a href="http://tnlabour.in/workers-struggles/3448">Thozhilalar Koodam created a comic</a> on the Minimum Wages Act of 1948: how it is used, abused, 
+<a href="http://tnlabour.in/workers-struggles/3448">Thozhilalar Koodam created a comic</a> on the Minimum Wages Act of 1948: how it is used, abused,
 and how it can better serve the interests of the working class.
-(The Tamil version can be seen here: <a href="../images/labour/extras/min_wage_tamil_1.jpg">Page 1</a>, 
-<a href="../images/labour/extras/min_wage_tamil_2.jpg">Page 2</a>, 
-<a href="../images/labour/extras/min_wage_tamil_3.jpg">Page 3</a>, 
+(The Tamil version can be seen here: <a href="../images/labour/extras/min_wage_tamil_1.jpg">Page 1</a>,
+<a href="../images/labour/extras/min_wage_tamil_2.jpg">Page 2</a>,
+<a href="../images/labour/extras/min_wage_tamil_3.jpg">Page 3</a>,
 <a href="../images/labour/extras/min_wage_tamil_4.jpg">Page 4</a>.)
 </p>
 <center>
@@ -208,7 +214,7 @@ and how it can better serve the interests of the working class.
 
 
 <h3><i>Race to the bottom</i> (February 2016)</h3>
-<p>Accompanying image for <a href="http://tnlabour.in/factory-workers/3120">an article</a> on how the states of india are racing 
+<p>Accompanying image for <a href="http://tnlabour.in/factory-workers/3120">an article</a> on how the states of india are racing
 against each other to eliminate labour laws and attract foreign investment.</p>
 
 <center>
@@ -218,10 +224,10 @@ against each other to eliminate labour laws and attract foreign investment.</p>
 <hr>
 
 <h3><i>The day we stood as equal</i> (December 2015)</h3>
-An accompanying illustration for 
+An accompanying illustration for
 <a href="http://tnlabour.in/environment-and-working-class/2994">T Venkat's essay</a> on
 how the Chennai floods suddenly brought people together
-across class lines, only to just as suddenly 
+across class lines, only to just as suddenly
 reinforced these dividing lines as the waters receded.
 Collaboratively drawn with Madhushree Basu.
 
@@ -250,12 +256,11 @@ at the hands of the State.
 <h3><i>Road safety?</i> (September 2015)</h3>
 <p>
 An illustration to accompany <a href="http://tnlabour.in/service-sector/2708">this interview</a>
-with Comrade Chandran, 
+with Comrade Chandran,
 General Secretary of Chennai MTC Union affiliated to CITU.
 In the interview, Chandran describes
-how the Road Safety Bill is actually 
+how the Road Safety Bill is actually
 facilitating corporate takeover of transportation.</p>
 <center>
 <a href="../images/labour/road_safety.jpg"><img SRC="../images/labour/road_safety_small.jpg" ALT=""></a>
 </center>
-
