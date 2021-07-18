@@ -21,7 +21,7 @@ Here are some of the performances I've been involved in:
 
 <div class="pictures-container">
 'Mondays are Best for Flying out of Windows' was created by Perch Collective, specially commissioned for the Serendipity Arts Festival and premiered in Panjim, Goa in December 2018.
-It was created and performed by Iswar Lalitha, Rency Philip, Sachin Gurjale, Vijay Ravikumar and Vinod Ravindran, and Rajiv Krishnan with music composed and played by Abhaydev Praful.
+It was created and performed by Iswar Lalitha, Rency Philip, Sachin Gurjale, Vijay Ravikumar and Vinod Ravindran, along with Anushka Meenakshi and director Rajiv Krishnan, with music composed and played by Abhaydev Praful.
 
  <img src="../images/performance/kharms5.jpg" class="shrinkToFit" height="200">
 </div>
@@ -32,14 +32,14 @@ It was created and performed by Iswar Lalitha, Rency Philip, Sachin Gurjale, Vij
 # Lentils and Stones
 
 
- <a href="http://ikkarai.github.io/lentils">Click here for the main page for 'Lentils and Stones'.</a>. 
+ <a href="http://ikkarai.github.io/lentils">Click here for the main page for 'Lentils and Stones'.</a>.
 
 In 2018 I received a grant from Perch Collective Chennai to create the performance 'Lentils and Stones'.
 
 
 <div class="pictures-container">
  <img src="../images/performance/lentils3.jpg" class="shrinkToFit" height="200">
-The piece is partly based on my experience living with my grandmother over the past several years, during which I've been struck by the disproportionate number of stories that come from her childhood, and by how vividly she recounts and draws sustenance from these tales. 
+The piece is partly based on my experience living with my grandmother over the past several years, during which I've been struck by the disproportionate number of stories that come from her childhood, and by how vividly she recounts and draws sustenance from these tales.
 </div>
  On the other hand, her childhood came to an abrupt end at age twelve when she was married off, and the vast majority of the life that followed is remembered in a very different way, always in relation to the domestic work she was engaged in.  At times while listening to her, the work feels like a sort of slavery, especially in the earlier stages of moving into her husband’s large joint family.  But the work eventually becomes an everyday reality that is accepted and unquestioned.  And in a world where the pace of social, political, and environmental change evades our capacity to keep up, her memory of that work provides a conflicted sense of comfort.
 
@@ -60,9 +60,9 @@ Some time back a friend read me the poem ‘Woman Cleaning Lentils’ by the Arm
 
 # Maradhyana
 
- <a href="http://ikkarai.github.io/tadaka">Click here for the main page for 'Maradhyana'.</a>. 
+ <a href="http://ikkarai.github.io/tadaka">Click here for the main page for 'Maradhyana'.</a>.
 
-In 2017 and 2018 I worked on masks and art for Madhushree Basu's play 'Maradhyana', originally created for Gender Bender 2017. 
+In 2017 and 2018 I worked on masks and art for Madhushree Basu's play 'Maradhyana', originally created for Gender Bender 2017.
 
 
 <div class="pictures-container">
@@ -107,4 +107,3 @@ Many years later I came to learn that  thousands of the old marionettes were fou
 
 
 In retrospect, I feel  the saddest part was how there was no longer an audience for their stories or their art form, a fact that I don't think Ralph or Lou ever managed to accept.
-
