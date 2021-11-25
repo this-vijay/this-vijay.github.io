@@ -16,7 +16,7 @@ Over the past few years I've given a number of general audience talks for high s
 
 Which of the following viewpoints of the tiled floor would be easiest to draw?
 
-<div class="pictures-container">
+<div class="flex-container">
  <img src="../images/outreach/floor1_grid.jpg" class="shrinkToFit" height="150">
 
  <img src="../images/outreach/floor2_grid.jpg" class="shrinkToFit" height="150">
@@ -49,7 +49,7 @@ This talk was partly based on  John Stillwell's excellent book <i>The Four Pilla
 
 Every time you move your head you are rotating the space around you.   And you do this constantly, every day, every minute, while you're awake and even while you're asleep.  But how well do you really know the collection of rotations of three dimensional space?
 
-<div class="pictures-container">
+<div class="flex-container">
  <img src="../images/outreach/banana1.jpg" class="shrinkToFit" height="300">
 
  <img src="../images/outreach/banana2.jpg" class="shrinkToFit" height="300">
@@ -73,12 +73,12 @@ Where has your bicycle gone?  You can see tracks in the mud, but which
 direction are they going?  If you could only determine the direction
 and follow the tracks, you just might find the bike itself.  But is it
 even possible to do so?
-<div class="pictures-container">
- <img src="../images/outreach/bicycle1.jpg" class="shrinkToFit" height="150">
+<div class="flex-container">
+ <img src="../images/outreach/bicycle1.jpg" class="shrinkToFit" height="140">
 
- <img src="../images/outreach/bicycle2.jpg" class="shrinkToFit" height="150">
+ <img src="../images/outreach/bicycle2.jpg" class="shrinkToFit" height="140">
 
- <img src="../images/outreach/bicycle3.jpg" class="shrinkToFit" height="150">
+ <img src="../images/outreach/bicycle3.jpg" class="shrinkToFit" height="140">
  
 </div>
 
@@ -95,10 +95,10 @@ by James Tanton.
 
 
 ## Do maps make the world go round?
-<div class="pictures-container">
- <img src="../images/outreach/tissot1.png" class="shrinkToFit" height="125">
+<div class="flex-container">
+ <img src="../images/outreach/tissot1.png" class="shrinkToFit" height="130">
 
- <img src="../images/outreach/tissot2.png" class="shrinkToFit" height="125">
+ <img src="../images/outreach/tissot2.png" class="shrinkToFit" height="130">
 </div>
 Gauss's <i>Theorema Egregium</i> tells us that the sphere and the plane have
 different <i>curvatures</i>, and as a consequence there can never be a
@@ -110,9 +110,9 @@ Because of Gauss' Theorem, no map can accurately represent <i>both</i> area and 
 Yet despite this obstruction, people have come up with remarkable innovations, including a tetrahedral Earth that can be "unfolded" into an
 infinitely repeating, center-less map of Earth.
 
-<div class="pictures-container">
- <img src="../images/outreach/auth.png" class="shrinkToFit" height="300">
- <img src="../images/outreach/maps.jpg" class="shrinkToFit" height="300">
+<div class="flex-container">
+ <img src="../images/outreach/auth.png" class="shrinkToFit" height="290">
+ <img src="../images/outreach/maps.jpg" class="shrinkToFit" height="290">
 </div>
 
 For the sides to this talk <a href="../images/slides/projections.pdf">click here</a>.
@@ -124,12 +124,12 @@ For the tetrahedron template <a href="../images/worksheets/authagraph.pdf">click
 
 ## Pascal's Triangle evened out
 One of the most remarkable aspects of Pascal's Triangle is how often it has appeared in different cultures and contexts and time periods. No person or society can claim ownership -- it is a truly human invention!
-  <div class="pictures-container">
+  <div class="flex-container">
   <img src="../images/outreach/climbing_meru.png" class="shrinkToFit" height="300">
 </div>
 As with many mathematical objects, some of  the most interesting patterns in Pascal's Triangle  emerge only when you 'forget' much of what you know about it.   To begin with, take a look at what happens when you examine just the odd entries of Pascal's triangle.
 
-<div class="pictures-container">
+<div class="flex-container">
  <img src="../images/outreach/mod_2_8_rows.png" class="shrinkToFit" height="150">
 
  <img src="../images/outreach/mod_2_16_rows.png" class="shrinkToFit" height="150">
@@ -149,12 +149,12 @@ or this <a href="../images/worksheets/pascal_numbered.png">this numbered templat
 <hr>
 
 ## An invitation to hexaflexagate
-<div class="pictures-container">
- <img src="../images/outreach/hexa1.jpg" class="shrinkToFit" height="250">
+<div class="flex-container">
+ <img src="../images/outreach/hexa1.jpg" class="shrinkToFit" height="300">
 
- <img src="../images/outreach/hexa2.jpg" class="shrinkToFit" height="250">
+ <img src="../images/outreach/hexa2.jpg" class="shrinkToFit" height="300">
 
- <img src="../images/outreach/hexa3.jpg" class="shrinkToFit" height="250">
+ <img src="../images/outreach/hexa3.jpg" class="shrinkToFit" height="300">
 </div>
 A  strip of paper and a bit of cello tape is all one needs to construct a <i>hexaflexagon</i>. Questions of a mathematical nature arise when you begin to examine the properties of your creation. And the answers to these questions may lead to new construction ideas!
 

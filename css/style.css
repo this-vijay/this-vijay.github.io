@@ -45,6 +45,20 @@ p, blockquote {
   max-width: 40rem;
 }
 
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+   align-items: center;
+}
+
+.flex-container > div, img{
+  margin: 10px;
+  /* padding: 10px; */
+  font-size: 30px;
+}
+
 #cover {
     background: url('../inktober13.jpg') no-repeat center;
     background-size: cover;
