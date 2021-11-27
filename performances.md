@@ -52,7 +52,7 @@ environmental change, her memory of that
 work provides a conflicted sense of comfort.
 
 
- <img src="../images/performance/lentils3.jpg" style="min-width: 20rem; width: 30vw">
+<img src="../images/performance/lentils3.jpg" style="min-width: 20rem; width: 30vw">
 
 <img src="../images/performance/lentils1.jpg" class="alignright" style="min-width: 15rem; width: 30vw">
 
@@ -83,9 +83,8 @@ Maradhyana is a dance-drama based on a sub-story within the Ramayana,
 
 <div class="flex-container">
  <img src="../images/performance/tadaka_masks8.jpg" style="height: 50vh; min-height: 15rem">
-  <img src="../images/performance/tadaka_masks4.jpg"style="height: 50vh; min-height: 15rem">
+ <img src="../images/performance/tadaka_masks4.jpg" style="height: 50vh; min-height: 15rem">
 </div>
-
 
 <img src="../images/performance/tadaka2.jpg" class="alignleft" style="min-width: 20rem; width: 30vw">
 
