@@ -12,7 +12,7 @@ Here are some of the performances I've been involved in:
 
 <p></p>
 
- <img src="../images/performance/kharms1.jpg" class="alignleft" style="min-width: 15rem; width: 18vw"></img>
+ <img src="../images/performance/kharms1.jpg" class="alignleft" style="min-width: 15rem; width: 18vw">
 'Mondays are Best for Flying out of Windows' is a devised peformance involving puppetry and physical theater,
 inspired by the stories of Daniil Kharms (1905-1942), an early Soviet era absurdist 
 poet, writer and dramatist. Kharms was often incarcerated by the Soviet 
@@ -26,14 +26,14 @@ psychiatric ward of a Soviet hospital after his arrest in 1942.
 'Mondays are Best for Flying out of Windows' was created by Perch Collective, specially commissioned for the Serendipity Arts Festival and premiered in Panjim, Goa in December 2018.
 It was created and performed by Iswar Lalitha, Rency Philip, Sachin Gurjale, Vijay Ravikumar and Vinod Ravindran, along with Anushka Meenakshi and director Rajiv Krishnan, with music composed and played by Abhaydev Praful.
 
-<img src="../images/performance/kharms2.jpg" style="width: 75%; min-width: 20rem"></img>
+<img src="../images/performance/kharms2.jpg" style="width: 75%; min-width: 20rem">
 
 
 <hr>
 
 # Lentils and Stones
 
- <img src="../images/performance/lentils-poster.png" class="alignright" style="min-width: 15rem; width: 15vw"></img>
+ <img src="../images/performance/lentils-poster.png" class="alignright" style="min-width: 15rem; width: 15vw">
  <a href="http://ikkarai.github.io/lentils">Click here for the main page for 'Lentils and Stones'.</a>.
 In 2018, supported by a grant from Perch Collective, I created ‘Lentils and Stones’, a performance with puppetry and dance.
  It is partly inspired by the poem 'Woman cleaning Lentils' by the Armenian poet Zahrad, and also by my time living with my grandmother in Chennai.
@@ -52,9 +52,9 @@ environmental change, her memory of that
 work provides a conflicted sense of comfort.
 
 
- <img src="../images/performance/lentils3.jpg" style="min-width: 20rem; width: 30vw"></img>
+ <img src="../images/performance/lentils3.jpg" style="min-width: 20rem; width: 30vw">
 
-<img src="../images/performance/lentils1.jpg" class="alignright" style="min-width: 15rem; width: 30vw"></img>
+<img src="../images/performance/lentils1.jpg" class="alignright" style="min-width: 15rem; width: 30vw">
 
 
 Zahrad's poem ‘Woman Cleaning Lentils’
@@ -72,7 +72,7 @@ between the past and present over who gets to have a final word.
 
 # Maradhyana
 
-<img src="../images/performance/tadaka_masks1.jpg" class="alignright" style="min-width: 15rem; width: 30vw"></img>
+<img src="../images/performance/tadaka_masks1.jpg" class="alignright" style="min-width: 15rem; width: 30vw">
 <a href="http://ikkarai.github.io/tadaka">Click here for the main page for ‘Maradhyana’.</a>
 In 2017 and 2018 I worked on masks and art for Madhushree Basu’s play ‘Maradhyana’, originally created for Gender Bender 2017.
 
@@ -82,12 +82,12 @@ Maradhyana is a dance-drama based on a sub-story within the Ramayana,
 
 
 <div class="flex-container">
- <img src="../images/performance/tadaka_masks8.jpg" style="height: 50vh; min-height: 15rem"></img>
-  <img src="../images/performance/tadaka_masks4.jpg"style="height: 50vh; min-height: 15rem"></img>
+ <img src="../images/performance/tadaka_masks8.jpg" style="height: 50vh; min-height: 15rem">
+  <img src="../images/performance/tadaka_masks4.jpg"style="height: 50vh; min-height: 15rem">
 </div>
 
 
-<img src="../images/performance/tadaka2.jpg" class="alignleft" style="min-width: 20rem; width: 30vw"></img>
+<img src="../images/performance/tadaka2.jpg" class="alignleft" style="min-width: 20rem; width: 30vw">
 
 
 In particular the piece is inspired by the Malayalam poet Vayalar Ramavarma’s poem 
