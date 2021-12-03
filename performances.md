@@ -1,7 +1,7 @@
 ---
 layout: performance
 title: performance
-permalink: /performance/
+permalink: /performances/
 ---
 
 Here are some of the performances I've been involved in:
