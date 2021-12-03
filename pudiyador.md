@@ -14,10 +14,10 @@ From the beginning of 2015 to 2017,  I ran a weekly ‘visual art’ class for k
 
 
 
-<div class="pictures-container">
- <img src="../images/pudiyador/pudiyador1.jpg" class="shrinkToFit" height="250">
+<div class="flex-container">
+ <img src="../images/pudiyador/pudiyador1.jpg" class="shrinkToFit" height="225">
 
- <img src="../images/pudiyador/pudiyador2.jpg" class="shrinkToFit" height="250">
+ <img src="../images/pudiyador/pudiyador2.jpg" class="shrinkToFit" height="225">
 </div>
 
 
@@ -29,10 +29,10 @@ So what do we do?  On a good day, we have a discussion, or maybe play a game, th
 
 
 
-<div class="pictures-container">
- <img src="../images/pudiyador/pudiyador3.jpg" class="shrinkToFit" height="250">
+<div class="flex-container">
+ <img src="../images/pudiyador/pudiyador3.jpg" class="shrinkToFit" height="260">
 
- <img src="../images/pudiyador/pudiyador4.jpg" class="shrinkToFit" height="250">
+ <img src="../images/pudiyador/pudiyador4.jpg" class="shrinkToFit" height="260">
 </div>
 
 
@@ -43,10 +43,10 @@ If I do have an ulterior motive in these classes, it comes from the belief that 
 
 
 
-<div class="pictures-container">
- <img src="../images/pudiyador/pudiyador5.jpg" class="shrinkToFit" height="250">
+<div class="flex-container">
+ <img src="../images/pudiyador/pudiyador5.jpg" class="shrinkToFit" height="225">
 
- <img src="../images/pudiyador/pudiyador6.jpg" class="shrinkToFit" height="250">
+ <img src="../images/pudiyador/pudiyador6.jpg" class="shrinkToFit" height="225">
 </div>
 
 
@@ -61,10 +61,10 @@ If I do have an ulterior motive in these classes, it comes from the belief that 
 We  had an exhibition of some of the Pudiyador kids' work at Spaces on July 5, 2016.
 
 
-<div class="pictures-container">
- <img src="../images/pudiyador/artshow1.jpg" class="shrinkToFit" height="200">
- <img src="../images/pudiyador/artshow2.jpg" class="shrinkToFit" height="200">
- <img src="../images/pudiyador/artshow3.jpg" class="shrinkToFit" height="200">
+<div class="flex-container">
+ <img src="../images/pudiyador/artshow1.jpg" class="shrinkToFit" height="230">
+ <img src="../images/pudiyador/artshow2.jpg" class="shrinkToFit" height="230">
+ <img src="../images/pudiyador/artshow3.jpg" class="shrinkToFit" height="230">
 </div>
 
 
@@ -72,10 +72,10 @@ We  had an exhibition of some of the Pudiyador kids' work at Spaces on July 5, 2
 <hr>
 
 
-<div class="pictures-container">
- <img src="../images/pudiyador/artshow4.jpg" class="shrinkToFit" height="200">
- <img src="../images/pudiyador/artshow5.jpg" class="shrinkToFit" height="200">
- <img src="../images/pudiyador/artshow6.jpg" class="shrinkToFit" height="200">
+<div class="flex-container">
+ <img src="../images/pudiyador/artshow4.jpg" class="shrinkToFit" height="230">
+ <img src="../images/pudiyador/artshow5.jpg" class="shrinkToFit" height="230">
+ <img src="../images/pudiyador/artshow6.jpg" class="shrinkToFit" height="230">
 </div>
 
 

@@ -43,12 +43,12 @@ I co-wrote and illustrated a poster for <i>Zero Shadow Day</i> 2018, to be used 
 
 
 
-<div class="pictures-container">
- <img src="../images/science/pudiyador_zsd.jpg" class="shrinkToFit" height="200">
+<div class="flex-container">
+ <img src="../images/science/pudiyador_zsd.jpg" class="shrinkToFit" height="250">
 
- <img src="../images/science/pudiyador_measurement.jpg" class="shrinkToFit" height="200">
+ <img src="../images/science/pudiyador_measurement.jpg" class="shrinkToFit" height="250">
 
- <img src="../images/science/pudiyador_trace.jpg" class="shrinkToFit" height="200">
+ <img src="../images/science/pudiyador_trace.jpg" class="shrinkToFit" height="250">
 </div>
 
 
