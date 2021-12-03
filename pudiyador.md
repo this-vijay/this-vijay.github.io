@@ -55,6 +55,7 @@ If I do have an ulterior motive in these classes, it comes from the belief that 
 
 
 <hr>
+<hr>
 
 ## Pudiyador Art Show
 
@@ -65,17 +66,11 @@ We  had an exhibition of some of the Pudiyador kids' work at Spaces on July 5, 2
  <img src="../images/pudiyador/artshow1.jpg" class="shrinkToFit" height="230">
  <img src="../images/pudiyador/artshow2.jpg" class="shrinkToFit" height="230">
  <img src="../images/pudiyador/artshow3.jpg" class="shrinkToFit" height="230">
-</div>
-
-
-
-<hr>
-
-
-<div class="flex-container">
  <img src="../images/pudiyador/artshow4.jpg" class="shrinkToFit" height="230">
  <img src="../images/pudiyador/artshow5.jpg" class="shrinkToFit" height="230">
  <img src="../images/pudiyador/artshow6.jpg" class="shrinkToFit" height="230">
 </div>
 
+
+<hr>
 
