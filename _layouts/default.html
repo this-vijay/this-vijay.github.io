@@ -14,7 +14,7 @@
         <div class="info">
           <div class="name"><a href="{{site.baseurl}}/">vijay ravikumar</a></div>
           <aside> &nbsp </aside>
-	  <aside>  <img src="../images/icons/mountain_icon.png" class="shrinkToFit" height="100"> </aside>
+	  <aside>  <img src="../images/icons/mugshot_oval.png" class="shrinkToFit" height="100"> </aside>
         </div>
         <div class="menu">
           <ul>
@@ -27,7 +27,11 @@
 		  <a href="{{ "https:/" | append: p.url }}">{{ p.title }}</a>
                   {% else %}
 		  <aside>  &nbsp </aside>
-                  <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+                    {% if page.title == p.title %}
+                    <a style="font-size: 1.2em" href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+                    {% else %}
+                    <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+                    {% endif %}
                   {% endif %}
                 </li>
               {% endif %}
