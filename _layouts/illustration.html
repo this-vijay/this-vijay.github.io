@@ -2,7 +2,7 @@
 layout: article-writing
 ---
 
-{% assign sub_pages = "science, labour, posters, animation, pudiyador" | split: ", " %}
+{% assign sub_pages = "science, labour, posters, animation, teaching" | split: ", " %}
 
 
 
@@ -12,7 +12,7 @@ layout: article-writing
 {% for p in sub_pages %}
                 <li>
                     {% if page.keyword == p %}
-                      <a style="font-size: 1.2em; font-weight: bold" href="{{ site.baseurl }}/{{ p }}/">{{ p }}</a>
+                      <a style="font-weight: bold" href="{{ site.baseurl }}/{{ p }}/">{{ p }}</a>
                     {% else %}
                       <a href="{{site.baseurl}}/{{ p }}/"> {{ p }} </a> 
                     {% endif %}
@@ -20,11 +20,8 @@ layout: article-writing
 {% endfor %}
 </ul>
 
-<aside>  &nbsp </aside>
 
-<aside>  &nbsp </aside>
-
-
+<!--
 <ul class="subnav">
   <li><a href="{{site.baseurl}}/science/">science</a></li>
   <li><a href="{{site.baseurl}}/labour/">labor</a></li>
@@ -33,4 +30,5 @@ layout: article-writing
   <li><a href="{{site.baseurl}}/pudiyador/">teaching</a></li>
 </ul>
 
-{{ content }}
+{{ content }} -->
+

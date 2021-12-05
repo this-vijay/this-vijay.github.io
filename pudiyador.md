@@ -2,7 +2,7 @@
 layout: illustration
 title: Art Teaching
 permalink: /pudiyador/
-keyword: pudiyador
+keyword: teaching
 ---
 
 ## Drawing Class with Pudiyador
