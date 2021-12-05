@@ -2,10 +2,26 @@
 layout: article-writing
 ---
 
+{% assign sub_pages = "outreach, teaching, research" | split: ", " %}
+<ul class="subnav">
+  
+{% for p in sub_pages %}
+                <li>
+                    {% if page.keyword == p %}
+                      <a style="font-weight: bold" href="{{ site.baseurl }}/{{ p }}/">{{ p }}</a>
+                    {% else %}
+                      <a href="{{site.baseurl}}/{{ p }}/"> {{ p }} </a>
+                    {% endif %}
+                </li>
+{% endfor %}
+</ul>
+
+<!--
 <ul class="subnav">
   <li><a href="{{site.baseurl}}/outreach/">outreach</a></li>
   <li><a href="{{site.baseurl}}/teaching/">teaching</a></li>
   <li><a href="{{site.baseurl}}/research/">research</a></li>
 </ul>
+-->
 
 {{ content }}
