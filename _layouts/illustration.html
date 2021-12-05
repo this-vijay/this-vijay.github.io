@@ -2,11 +2,10 @@
 layout: article-writing
 ---
 
-{% include header.html %}
 
 {% assign sub_pages = "science, labour, posters, animation, teaching" | split: ", " %}
 <ul class="subnav">
-
+  
 {% for p in sub_pages %}
                 <li>
                     {% if page.keyword == p %}
