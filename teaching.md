@@ -4,6 +4,9 @@ title: Mathematics Teaching
 permalink: /teaching/
 ---
 
+{% include header.html %}
+
+
 ## Chennai Mathematical Institute
 
 Spring 2018:

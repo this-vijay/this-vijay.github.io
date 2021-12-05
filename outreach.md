@@ -4,6 +4,7 @@ title: Mathematics Outreach
 permalink: /outreach/
 ---
 
+{% include header.html %}
 
 
 

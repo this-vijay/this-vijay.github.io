@@ -1,6 +1,6 @@
 ---
 layout: illustration
-title: Science Illustration
+title: Science Illustrations
 permalink: /science/
 keyword: science
 ---
