@@ -5,6 +5,8 @@ permalink: /posters/
 keyword: posters
 ---
 
+{% include header.html %}
+
 
 <h3><i>Kharms poster</i> (April 2019)</h3>
 <p>Poster for  <i>Mondays are best for flying out of windows</i>, a performance by Perch Collective Chennai, based on the writings of Daniil Kharms.</p>

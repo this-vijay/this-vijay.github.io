@@ -5,6 +5,8 @@ permalink: /pudiyador/
 keyword: teaching
 ---
 
+{% include header.html %}
+
 ## Drawing Class with Pudiyador
 
 From the beginning of 2015 to 2017,  I ran a weekly ‘visual art’ class for kids from working-class communities of Chennai, through the NGO Pudiyador.
