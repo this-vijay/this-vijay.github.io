@@ -14,7 +14,11 @@ layout: article-writing
                     {% if page.keyword == p %}
                       <a style="font-weight: bold" href="{{ site.baseurl }}/{{ p }}/">{{ p }}</a>
                     {% else %}
-                      <a href="{{site.baseurl}}/{{ p }}/"> {{ p }} </a> 
+                      {% if p == "teaching" %} <!-- hack to avoid linking to /teaching/ which is already for math teaching-->
+                        <a href="{{site.baseurl}}/pudiyador/"> {{ p }} </a>
+                      {% else %} 
+                        <a href="{{site.baseurl}}/{{ p }}/"> {{ p }} </a>
+                      {% endif %}
                     {% endif %}
                 </li>
 {% endfor %}
@@ -28,7 +32,7 @@ layout: article-writing
   <li><a href="{{site.baseurl}}/posters/">posters</a></li>
   <li><a href="{{site.baseurl}}/animation/">animation</a></li>
   <li><a href="{{site.baseurl}}/pudiyador/">teaching</a></li>
-</ul>
+</ul> -->
 
-{{ content }} -->
+{{ content }}
 
