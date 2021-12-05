@@ -2,6 +2,7 @@
 layout: illustration
 title: Labour Illustrations
 permalink: /labour/
+keyword: labour
 ---
 
 

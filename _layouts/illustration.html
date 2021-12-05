@@ -11,11 +11,10 @@ layout: article-writing
 
 {% for p in sub_pages %}
                 <li>
-                    {% if page.title == p %}
-                      <a style="font-size: 1.2em; font-weight: bold" href="{{ site.baseurl }}{{ p }}">{{ p }}</a>
+                    {% if page.keyword == p %}
+                      <a style="font-size: 1.2em; font-weight: bold" href="{{ site.baseurl }}/{{ p }}/">{{ p }}</a>
                     {% else %}
-\                      <a href="{{site.baseurl}}/{{ p }}/"> {{ p }} </a>
-                      }
+                      <a href="{{site.baseurl}}/{{ p }}/"> {{ p }} </a> 
                     {% endif %}
                 </li>
 {% endfor %}

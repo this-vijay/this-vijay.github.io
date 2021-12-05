@@ -2,6 +2,7 @@
 layout: illustration
 title: Science Illustration
 permalink: /science/
+keyword: science
 ---
 
 

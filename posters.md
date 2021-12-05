@@ -2,6 +2,7 @@
 layout: illustration
 title: Posters
 permalink: /posters/
+keyword: posters
 ---
 
 
