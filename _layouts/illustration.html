@@ -2,6 +2,13 @@
 layout: article-writing
 ---
 
+{% assign sub_pages = "science, labor, posters, animation, pudiyador" | split: ", " %}
+
+{% for p in sub_pages %}
+  {{ p }}
+{% endfor %}
+
+
 <ul class="subnav">
   <li><a href="{{site.baseurl}}/science/">science</a></li>
   <li><a href="{{site.baseurl}}/labour/">labor</a></li>
