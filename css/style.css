@@ -405,7 +405,8 @@ footer > p {
 
 .subnav {
     padding-bottom: 1.125em;
-    margin-top: -1.125em;
+    padding-top: 1.125em;
+    margin-top: -.125em;
     margin-bottom: 2.25em;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     border-top: 1px solid rgba(0, 0, 0, 0.1);
