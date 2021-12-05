@@ -2,6 +2,7 @@
 layout: mathematics
 title: Mathematics Research
 permalink: /research/
+keyword: research
 ---
 
 {% include header.html %}

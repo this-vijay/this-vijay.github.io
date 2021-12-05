@@ -2,6 +2,7 @@
 layout: mathematics
 title: Mathematics Teaching
 permalink: /teaching/
+keyword: teaching
 ---
 
 {% include header.html %}

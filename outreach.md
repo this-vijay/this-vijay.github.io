@@ -2,6 +2,7 @@
 layout: mathematics
 title: Mathematics Outreach
 permalink: /outreach/
+keyword: outreach
 ---
 
 {% include header.html %}
