@@ -4,13 +4,25 @@ layout: article-writing
 
 {% assign sub_pages = "science, labor, posters, animation, pudiyador" | split: ", " %}
 
-{% for p in sub_pages %}
-{{ site.baseurl }}{{ p }}
-{% endfor %}
+
+
+
+<ul class="subnav">
 
 {% for p in sub_pages %}
-{{ site.baseurl }}{{ p }}
+                <li>
+                    {% if page.title == p %}
+                    <a style="font-size: 1.2em;" href="{{ site.baseurl }}{{ p }}">{{ p }}</a>
+                    {% else %}
+                    <a href="{{ site.baseurl }}{{ p }}">{{ p }}</a>
+                    {% endif %}
+                </li>
 {% endfor %}
+</ul>
+
+<aside>  &nbsp </aside>
+
+<aside>  &nbsp </aside>
 
 
 <ul class="subnav">
