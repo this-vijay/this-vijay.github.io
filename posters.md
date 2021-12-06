@@ -3,6 +3,7 @@ layout: illustration
 title: Posters
 permalink: /posters/
 keyword: posters
+subnav_order: 3
 ---
 
 {% include header.html %}

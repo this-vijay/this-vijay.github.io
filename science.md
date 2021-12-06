@@ -3,6 +3,7 @@ layout: illustration
 title: Science Illustrations
 permalink: /science/
 keyword: science
+subnav_order: 1
 ---
 
 {% include header.html %}

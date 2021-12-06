@@ -5,12 +5,13 @@ permalink: /performances/
 ---
 
 Here are some of the performances I've been involved in:
-
 <hr>
 
-# Mondays are Best for Flying out of Windows
+### <i>Mondays are Best for Flying out of Windows
 
 <p></p>
+
+
 
  <img src="../images/performance/kharms1.jpg" class="alignleft" style="min-width: 15rem; width: 18vw">
 'Mondays are Best for Flying out of Windows' is a devised peformance involving puppetry and physical theater,
@@ -31,7 +32,7 @@ It was created and performed by Iswar Lalitha, Rency Philip, Sachin Gurjale, Vij
 
 <hr>
 
-# Lentils and Stones
+### <i>Lentils and Stones
 
  <img src="../images/performance/lentils-poster.png" class="alignright" style="min-width: 15rem; width: 15vw">
  <a href="http://ikkarai.github.io/lentils">Click here for the main page for 'Lentils and Stones'.</a>.
@@ -70,7 +71,7 @@ between the past and present over who gets to have a final word.
 
 <hr>
 
-# Maradhyana
+### <i>Maradhyana
 
 <img src="../images/performance/tadaka_masks1.jpg" class="alignright" style="min-width: 15rem; width: 30vw">
 <a href="http://ikkarai.github.io/tadaka">Click here for the main page for ‘Maradhyana’.</a>
@@ -101,7 +102,7 @@ intimidates Rama into killing Thadaka.
 
 <hr>
 
-# Puppet Parlor Chicago
+### <i>Puppet Parlor Chicago
 
 From 2001 to 2003 I worked on and off at The Puppet Parlor, a tiny marionette theater in Chicago run by Ralph and Lou: two old puppeteers hailing from older vaudeville families.  They  had built more than 2000 wooden marionettes by hand, all stored in that cramped basement on Montrose Avenue, many dating back to the 1960's when the theater had actually known some financial sucess.
 

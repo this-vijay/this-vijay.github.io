@@ -2,19 +2,22 @@
 layout: article-writing
 ---
 
-{% assign sub_pages = "outreach, teaching, research" | split: ", " %}
+
+{% assign nav_pages = site.pages | where: "layout", "mathematics" | sort: "subnav_order" %}
+
 <ul class="subnav">
-  
-{% for p in sub_pages %}
-                <li>
-                    {% if page.keyword == p %}
-                      <a style="font-weight: bold" href="{{ site.baseurl }}/{{ p }}/">{{ p }}</a>
+{% for p in nav_pages %}
+                 <li>
+                    {% if p.title == page.title %}
+                      <a style="font-weight: bold" href="{{ site.baseurl }}{{ p.permalink }}">{{ p.keyword }}</a>
                     {% else %}
-                      <a href="{{site.baseurl}}/{{ p }}/"> {{ p }} </a>
+                        <a href="{{ site.baseurl }}{{ p.permalink }}"> {{ p.keyword }} </a>
                     {% endif %}
                 </li>
 {% endfor %}
 </ul>
+
+
 
 <!--
 <ul class="subnav">

@@ -3,6 +3,7 @@ layout: illustration
 title: Labour Illustrations
 permalink: /labour/
 keyword: labour
+subnav_order: 2
 ---
 
 {% include header.html %}

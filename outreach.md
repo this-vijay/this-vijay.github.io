@@ -3,6 +3,7 @@ layout: mathematics
 title: Mathematics Outreach
 permalink: /outreach/
 keyword: outreach
+subnav_order: 1
 ---
 
 {% include header.html %}

@@ -3,6 +3,7 @@ layout: mathematics
 title: Mathematics Teaching
 permalink: /teaching/
 keyword: teaching
+subnav_order: 2
 ---
 
 {% include header.html %}

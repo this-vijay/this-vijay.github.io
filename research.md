@@ -3,6 +3,7 @@ layout: mathematics
 title: Mathematics Research
 permalink: /research/
 keyword: research
+subnav_order: 3
 ---
 
 {% include header.html %}

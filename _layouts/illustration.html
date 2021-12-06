@@ -2,20 +2,15 @@
 layout: article-writing
 ---
 
+{% assign nav_pages = site.pages | where: "layout", "illustration" | sort: "subnav_order" %}
 
-{% assign sub_pages = "science, labour, posters, animation, teaching" | split: ", " %}
 <ul class="subnav">
-  
-{% for p in sub_pages %}
-                <li>
-                    {% if page.keyword == p %}
-                      <a style="font-weight: bold" href="{{ site.baseurl }}/{{ p }}/">{{ p }}</a>
+{% for p in nav_pages %}
+                 <li>
+                    {% if p.title == page.title %}
+                      <a style="font-weight: bold" href="{{ site.baseurl }}{{ p.permalink }}">{{ p.keyword }}</a>
                     {% else %}
-                      {% if p == "teaching" %} <!-- hack to avoid linking to /teaching/ which is already for math teaching-->
-                        <a href="{{site.baseurl}}/pudiyador/"> {{ p }} </a>
-                      {% else %} 
-                        <a href="{{site.baseurl}}/{{ p }}/"> {{ p }} </a>
-                      {% endif %}
+                        <a href="{{ site.baseurl }}{{ p.permalink }}"> {{ p.keyword }} </a>
                     {% endif %}
                 </li>
 {% endfor %}
