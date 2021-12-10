@@ -333,6 +333,15 @@ nav a:hover {
 /* responsive video sizing*/
 /* wish I knew how to do this in flexbox */
 
+
+figcaption {
+  font-family: Georgia, serif;
+  font-size: .8em;
+  -webkit-font-smoothing: subpixel-antialiased;
+  max-width: 40rem;
+  text-align: center;
+}
+
 .pictures-container{
   font-family: Georgia, serif;
     position: relative;
