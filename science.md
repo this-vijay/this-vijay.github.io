@@ -9,6 +9,16 @@ subnav_order: 1
 {% include header.html %}
 
 
+
+## December Solstice
+
+I co-wrote and illustrated this children's piece on the December Solstice.  It is published in Hindi in <i>Chakmak</i> and in Tamil in <i>Thulir</i>.
+
+ <img src="../images/science/december-solstice.jpg" class="shrinkToFit">
+
+<hr>
+
+
 ## Coronavirus Explainer
 
 I co-wrote and illustrated this poster, which describes some of the very small and very large numbers that crop up when examining the coronavirus, and also the science behind handwashing.<a href="https://indscicov.in/for-public/popularization-resources/viruses/"> It was translated into a number of languages, including Tamil, Kannada, Malayalam, and Hindi.</a>
