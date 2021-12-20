@@ -92,7 +92,7 @@ and a fisherwoman who uses her experience with fishing nets to discover that <i>
 
 
 
-Created for Cuemath by Vijay Ravikumar, filmed and edited by Anushka Meenakshi, and featuring illustrations by Parvathy and acting by Iswar Lalitha, Kali Srinivasan, Rency Philip, and Sachin Gurjale.  
+Written and directed by Vijay Ravikumar, filmed and edited by Anushka Meenakshi, and featuring illustrations by Parvathy and acting by Iswar Lalitha, Kali Srinivasan, Rency Philip, and Sachin Gurjale.  
 
 Partly based on the web interactive <a href="https://aatishb.com/maskmath/"><i>The Multiplicative Power of Masks</i></a> by Aatish Bhatia.
 
@@ -141,7 +141,7 @@ and a carpenter who manufactures logarithmic scales, which he uses to visualize 
  <img src="../images/e-learning/carpenter2.png" class="shrinkToFit" height="200">
 </div>
 
-Created for Cuemath by Vijay Ravikumar, filmed and edited by Anushka Meenakshi, and featuring illustrations by Parvathy and acting by Kali Srinivasan, Rency Philip, Sachin Gurjale, and Vijay Ravikumar.
+Written and directed by Vijay Ravikumar, filmed and edited by Anushka Meenakshi, and featuring illustrations by Parvathy and acting by Kali Srinivasan, Rency Philip, Sachin Gurjale, and Vijay Ravikumar.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJsam-uDFxWNej1mA-2RReh7zd4kVHpa6Vbhz3aNc-LAFtEQ/viewform">Click here to try out <i>Math of COVID-19: Understanding Exponential Growth</i></a>.
 
@@ -203,7 +203,7 @@ While pondering these alternate voting systems, the mayor discovers the Condorce
 </div>
 
 
-Created for Cuemath by Vijay Ravikumar, filmed and edited by Anushka Meenakshi and Tarun Saldana, and featuring illustrations by Parvathy and acting by Kali Srinivasan, Rency Philip, Sachin Gurjale, and Vinod Ravindran.
+Written and directed by Vijay Ravikumar, filmed and edited by Anushka Meenakshi and Tarun Saldana, and featuring illustrations by Parvathy and acting by Kali Srinivasan, Rency Philip, Sachin Gurjale, and Vinod Ravindran.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBShrlr15pKe_lyyhwluQkqjq8YzqQcpVzRYVIZ9_OHfT2xg/viewform
 ">Click here to try out <i>The Math of Voting</i></a>.
