@@ -88,7 +88,7 @@ even possible to do so?
 
 For the worksheet <a href="../images/worksheets/bicycle_worksheet_bw.pdf">click here</a>.
 
-For the press coverage in Dinamalar  <a href="../images/outreach/bicycle_press.jpeg">click here</a>.
+For the press coverage of my talk in Dinamalar  <a href="../images/outreach/bicycle_press.jpeg">click here</a>.
 
 I gave this talk in Tamil to 150 school students as part of the Tamil language  program <a href="https://www.imsc.res.in/outreach/KK2018/"><i>kaNita-kAnakam</i></a> at IMSc. It was largely based onthe Math Circle Session
 <a href="https://www.mathteacherscircle.org/wp-content/themes/mtc/assets/MATH-CIRCLE-SESSION_Bicycle-Tracks.pdf"><i>The Mathematics of Bicycle Tracks</i></a>

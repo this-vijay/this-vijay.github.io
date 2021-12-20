@@ -8,7 +8,7 @@ subnav_order: 3
 
 {% include header.html %}
 
-I was an Assistant Professor at <a href="http://www.cmi.ac.in">Chennai Mathematical Institute</a> from  May 2016 to May 2018.  Prior to that I did Postdocs at TIFR Bombay and at CMI.
+I was an Assistant Professor at <a href="http://www.cmi.ac.in">Chennai Mathematical Institute</a> from  May 2016 to March 2020.  Prior to that I did Postdocs at TIFR Bombay and at CMI.
 I received my PhD in October 2013 from <a href="http://math.rutgers.edu">Rutgers University</a> under the supervision of <a href="http://math.rutgers.edu/~asbuch">Anders Buch</a>. I am primarily interested in Schubert calculus and algebraic combinatorics.
 In particular, I study the K-theory, equivariant cohomology, and quantum cohomology of Grassmannians and their generalizations. 
 

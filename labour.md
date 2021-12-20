@@ -18,7 +18,27 @@ You can click any of the images for higher resolution versions.
 
 
 
-<!---
+<hr>
+
+<h3><i>Bullshit jobs and precarious work</i> (September 2021)</h3>
+
+I designed and illustrated a flier for my friend Madhumita Dutta's course at Ohio State University.
+
+<center>
+<a href="../images/labour/madhu-course.jpg"><img SRC="../images/labour/madhu-course.jpg" ALT="" style="border: 2px solid #555"></a>
+</center>
+
+
+<hr>
+
+<h3><i>May Day magazine cover image</i> (May 2020)</h3>
+
+This image was created for the May Day issue of the Hindi magazine Mehnatkash.
+
+<center>
+<a href="../images/labour/mayday.jpg"><img SRC="../images/labour/mayday.jpg" ALT=""></a>
+</center>
+
 <hr>
 
 <h3><i>Labor laws dismantled amidst the brutal lockdown</i> (May 2020)</h3>
@@ -27,16 +47,10 @@ You can click any of the images for higher resolution versions.
 and shows  migrant workers reaching home after walking hundreds of kilometers on foot, only to find existing labor laws have been destroyed.
   The banner reads 'UP Government welcomes workers home'.  The newspaper headline reads 'UP dismantles all labor laws'.
 
-It was later
-<a href="https://www.groundxero.in/2020/06/23/the-pandemic-in-cartoons-part-2/">featured in a collection of cartoons by groundxero</a> depicting the reality of India's harsh lockdown
-
-
 <center>
 <a href="../images/labour/UP_migrants_tamil_small.jpg"><img SRC="../images/labour/UP_migrants_tamil_small.jpg" ALT=""></a>
 </center>
-your comment goes here
-and here
--->
+
 
 <hr>
 

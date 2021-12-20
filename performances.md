@@ -7,7 +7,69 @@ permalink: /performances/
 Here are some of the performances I've been involved in:
 <hr>
 
-### <i>Mondays are Best for Flying out of Windows
+## <i>Shady Fellows
+
+<p></p>
+
+
+<i>The world is full of shadows. But when we choose to notice them, what do we see?</i>
+
+<div class="flex-container"> 
+<img src="../images/performance/shady1.jpg" style="height: 35vh; min-height: 15rem">
+<a href="../images/performance/shady-poster.jpg"><img src="../images/performance/shady-poster.jpg" style="height: 35vh; min-height: 15rem"></a>
+</div>
+
+
+Merging shadow play and live performance, <i>Shady Fellows</i> looks at our shifting relationships to the shadows that populate our world.  It is for anyone who remembers looking at their own shadow in awe, in surprise, in fear, or with fondness.
+
+<figure>
+ <div class="flex-container">
+ <img src="../images/performance/shady2.jpg" style="height: 30vh; min-height: 12rem">
+ <img src="../images/performance/shady3.jpg" style="height: 30vh; min-height: 12rem">
+</div>
+<figcaption>Watercolors created by a young audience member inspired by the play!</figcaption>
+</figure>
+
+<i>Shady Fellows</i> is a devised performance by Perch, and was created at Yatra Arts Foundation by Abhaydev Praful, Anishaa Tavag, Anushka Meenakshi, Iswar Lalitha, Joshua Sailo, Kali Srinivasan, and directed by Vijay Ravikumar.  Music by Abhaydev Praful, costumes by Kaveri, and poster by Parvathy.
+
+<br>
+<hr>
+
+
+## <i>Life Cycle of a Trivial Loop
+
+<p></p>
+
+What is the shape of the space we move through? 
+
+Some movement seems to contain a seed of stillness.  And stillness sometimes contains a germ of movement. Through this ebb and flow of stillness and motion, can we understand the shape of the space our body negotiates?
+
+
+<div class="flex-container"> 
+<img src="../images/performance/trivial-loop-1.png" style="min-width: 22rem; width: 35vw">
+<img src="../images/performance/trivial-loop-2.png" style="min-width: 22rem; width: 35vw">
+</div>
+
+
+Life Cycle of a Trivial Loop is a math-dance collaboration with Joshua Sailo that came out of exploring how we can use the intuition stored in the human body to understand the shape of space.
+
+We worked together over zoom for one week in August 2020, after which we held a virtual sharing of a 20 minute work-in-progress performed by Joshua, followed by a demonstration and discussion of some of the math that went into our exploration. 
+
+<a href="https://www.sailoway.com/post/the-life-cycle-of-a-trivial-loop">Click here to read Joshua's thoughts on the project, as well as watch the live video feed of our sharing.</a>
+
+
+<div class="flex-container"> 
+<img src="../images/performance/trivial-loop-5.png"  style="height: 25vh;">
+<img src="../images/performance/trivial-loop-4.png" style="height: 25vh;">
+
+</div>
+
+
+
+<br>
+<hr>
+
+## <i>Mondays are Best for Flying out of Windows
 
 <p></p>
 
@@ -29,14 +91,15 @@ It was created and performed by Iswar Lalitha, Rency Philip, Sachin Gurjale, Vij
 
 <img src="../images/performance/kharms2.jpg" style="width: 75%; min-width: 15rem">
 
-
+<br>
 <hr>
 
-### <i>Lentils and Stones
+## <i>Lentils and Stones
 
- <img src="../images/performance/lentils-poster.png" class="alignright" style="min-width: 15rem; width: 15vw">
- <a href="http://ikkarai.github.io/lentils">Click here for the main page for 'Lentils and Stones'.</a>.
-In 2018, supported by a grant from Perch Collective, I created ‘Lentils and Stones’, a performance with puppetry and dance.
+ <a href="../images/performance/lentils-poster.png"><img src="../images/performance/lentils-poster.png" class="alignright" style="min-width: 15rem; width: 15vw"></a>
+ <a href="http://ikkarai.github.io/lentils">Click here for the main page for 'Lentils and Stones'.</a>
+
+In 2018, supported by a grant from Perch Collective, I wrote and directed ‘Lentils and Stones’, a performance with puppetry and dance.
  It is partly inspired by the poem 'Woman cleaning Lentils' by the Armenian poet Zahrad, and also by my time living with my grandmother in Chennai.
 
 Listening to her stories over the years, it has been striking how many come from her early childhood, and 
@@ -69,12 +132,14 @@ The piece grew out of many hours spent listening to my grandmother, noticing the
 ourselves with their uneasy relations to the present.  And the tussle 
 between the past and present over who gets to have a final word.
 
+<br>
 <hr>
 
-### <i>Maradhyana
+## <i>Maradhyana
 
 <img src="../images/performance/tadaka_masks1.jpg" class="alignright" style="min-width: 15rem; width: 30vw">
 <a href="http://ikkarai.github.io/tadaka">Click here for the main page for ‘Maradhyana’.</a>
+
 In 2017 and 2018 I worked on masks and art for Madhushree Basu’s play ‘Maradhyana’, originally created for Gender Bender 2017.
 
 Maradhyana is a dance-drama based on a sub-story within the Ramayana,
@@ -99,10 +164,10 @@ as political proposals, his guardian sage Vishwamitra intervenes and
 intimidates Rama into killing Thadaka.
 
 
-
+<br>
 <hr>
 
-### <i>Puppet Parlor Chicago
+## <i>Puppet Parlor Chicago
 
 From 2001 to 2003 I worked on and off at The Puppet Parlor, a tiny marionette theater in Chicago run by Ralph and Lou: two old puppeteers hailing from older vaudeville families.  They  had built more than 2000 wooden marionettes by hand, all stored in that cramped basement on Montrose Avenue, many dating back to the 1960's when the theater had actually known some financial sucess.
 

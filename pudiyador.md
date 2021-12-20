@@ -43,7 +43,7 @@ So what do we do?  On a good day, we have a discussion, or maybe play a game, th
 
 
 
-If I do have an ulterior motive in these classes, it comes from the belief that art can help make unseen forces seen.  And that there is something powerful in the connection that emerges during the act of drawing, a sort of confidence that can lead to insight and discovery.
+If I do have an ulterior motive in these classes, it comes from the belief that art can help make unseen forces more perceptible.  And that there is something powerful in the connection that emerges during the act of drawing, a sort of confidence that can lead to insight and discovery.
 
 
 
