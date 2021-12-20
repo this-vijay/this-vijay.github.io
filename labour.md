@@ -31,6 +31,7 @@ I designed and illustrated a flier for my friend Madhumita Dutta's course at Ohi
 
 <hr>
 
+<!--
 <h3><i>May Day magazine cover image</i> (May 2020)</h3>
 
 This image was created for the May Day issue of the Hindi magazine Mehnatkash.
@@ -54,6 +55,7 @@ and shows  migrant workers reaching home after walking hundreds of kilometers on
 
 <hr>
 
+-->
 
 <h3><i>A factory fire in Delhi</i> (March 2020)</h3>
 
