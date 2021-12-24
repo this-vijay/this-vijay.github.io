@@ -44,7 +44,7 @@ for anyone to use.  In fact, any student at any Indian college or university can
 
 ## <i>Math of COVID-19: Face Masks and Social Distancing</i>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeWszktemE_pE_v7wj9EPh-ieuC5MBrCPDCPeKqThhr6mrV9g/viewform">This interactive module</a>  reviews exponential growth and the parameter <i>R</i>-nought, and explores two ways of reducing <i>R</i>-nought to slow the spread of the pandemic: mask-wearing and social distancing.  
+<a href="https://this-vijay.github.io/more-covid-math/">This interactive module</a>  reviews exponential growth and the parameter <i>R</i>-nought, and explores two ways of reducing <i>R</i>-nought to slow the spread of the pandemic: mask-wearing and social distancing.  
 
 In their journey to help bring the pandemic to an end, the player will encounter:
 
@@ -97,7 +97,7 @@ Written and directed by Vijay Ravikumar, filmed and edited by Anushka Meenakshi,
 Partly based on the web interactive <a href="https://aatishb.com/maskmath/"><i>The Multiplicative Power of Masks</i></a> by Aatish Bhatia.
 
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeWszktemE_pE_v7wj9EPh-ieuC5MBrCPDCPeKqThhr6mrV9g/viewform">Click here to try out <i>Math of COVID-19: Face Masks and Social Distancing</i></a>.
+<a href="https://this-vijay.github.io/more-covid-math/">Click here to try out <i>Math of COVID-19: Face Masks and Social Distancing</i></a>.
 
 
 <br>

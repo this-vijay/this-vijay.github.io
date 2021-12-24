@@ -12,7 +12,7 @@ subnav_order: 1
 
 ## December Solstice
 
-I co-wrote and illustrated this children's piece on the December Solstice.  It is published in Hindi in <i>Chakmak</i> and in Tamil in <i>Thulir</i>.
+I co-wrote and illustrated this piece for children about the December Solstice.  It has been published in Hindi in <a href="https://www.eklavya.in/magazine-activity/chakmak-magazine/629-chakmak-2021/4331-chakmak-december-2021"><i>Chakmak</i></a> and in Tamil in <i>Thulir</i>.
 
  <img src="../images/science/december-solstice.jpg" class="shrinkToFit">
 
