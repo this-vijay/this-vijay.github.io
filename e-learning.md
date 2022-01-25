@@ -14,7 +14,7 @@ Since June 2020 I've been creating content for online education.
 
 I am currently working on a series of courses for NPTEL, the open access online course portal run by the Ministry of Education.
 
-Prior to this, I worked for the company Cuemath, designing a new model for interactive math sessions, which combine storytelling, professional actors, animation, and practical yet surprising mathematics that is not typically found in textbooks.  You can scroll down to see some examples.
+Prior to this, I worked for the company <a href="https://www.cuemath.com">Cuemath</a>, designing a new model for interactive math sessions, which combine storytelling, professional actors, animation, and practical yet surprising mathematics that is not typically found in textbooks.  You can scroll down to see some examples.
 
 <br>
 <hr>
@@ -34,6 +34,66 @@ This was the trailer for the NPTEL course, <i>Geometry of Vision</i> that I ran 
 
 As part of NPTEL, the online course platform run by the Ministry of Education, these courses are open access, and freely available 
 for anyone to use.  In fact, any student at any Indian college or university can take them for credit.
+
+<br>
+<hr>
+<hr>
+
+## <i>The Math of Voting</i> (created for <i>Cuemath</i>)
+
+
+The mayor is back in <a href="https://this-vijay.github.io/voting-math/">this interactive module</a>, and he's more distressed than ever! This time he's facing sleepness nights due to the upcoming mayoral election. While he is happy to retire from his post, he's deeply suspicious of the two polarizing candidates, and he would like to devise a mathematically perfect voting system before his term ends.
+
+
+
+As the mayor struggles with this formidable task, he begins receiving late-night visitations from the Three Election Ghosts!
+
+<div class="flex-container">
+ <img src="../images/e-learning/sleeping1.png" class="shrinkToFit" height="200">
+
+ <img src="../images/e-learning/sleeping2.png" class="shrinkToFit" height="200">
+</div>
+
+
+The Ghost of Elections Past explains how our historical system of counting votes has made it easy for politicians to win elections without winning the popular vote.
+
+<div class="flex-container">
+ <img src="../images/e-learning/sleeping3.png" class="shrinkToFit" height="200">
+
+ <img src="../images/e-learning/past1.png" class="shrinkToFit" height="200">
+</div>
+
+
+The Ghost of Elections Present reveals how present day politicians redraw district boundaries (a practice known as gerrymandering) in order to game election outcomes.
+
+<div class="flex-container">
+ <img src="../images/e-learning/present1.png" class="shrinkToFit" height="200">
+
+ <img src="../images/e-learning/present2.png" class="shrinkToFit" height="200">
+</div>
+
+
+The Ghost of Elections Yet to Come describes some fairer alternatives to our current 'plurality voting' system such as
+ranked voting and score voting.
+
+<div class="flex-container">
+ <img src="../images/e-learning/future1.png" class="shrinkToFit" height="200">
+
+ <img src="../images/e-learning/future2.png" class="shrinkToFit" height="200">
+</div>
+
+
+While pondering these alternate voting systems, the mayor discovers the Condorcet Paradox and Arrow's Theorem.  In the end, there is no perfect voting system, but we can still use mathematics to make our systems fairer and more democratic.
+
+
+<div class="flex-container">
+ <img src="../images/e-learning/ghost-banner.png" style="width: 80%">
+</div>
+
+
+Written and directed by Vijay Ravikumar; filmed and edited by Anushka Meenakshi and Tarun Saldana; featuring illustrations by Parvathy; and acting by Kali Srinivasan, Rency Philip, Sachin Gurjale, and Vinod Ravindran.  Created for and funded by <a href="https://www.cuemath.com">Cuemath Pvt Ltd</a>.
+
+<a href="https://this-vijay.github.io/voting-math/">Click here to try out <i>The Math of Voting</i></a>.
 
 
 <br>
@@ -92,7 +152,7 @@ and a fisherwoman who uses her experience with fishing nets to discover that <i>
 
 
 
-Written and directed by Vijay Ravikumar, filmed and edited by Anushka Meenakshi, and featuring illustrations by Parvathy and acting by Iswar Lalitha, Kali Srinivasan, Rency Philip, and Sachin Gurjale.  
+Written and directed by Vijay Ravikumar, filmed and edited by Anushka Meenakshi, and featuring illustrations by Parvathy and acting by Iswar Lalitha, Kali Srinivasan, Rency Philip, and Sachin Gurjale. Created for and funded by <a href="https://www.cuemath.com">Cuemath Pvt Ltd</a>. 
 
 Partly based on the web interactive <a href="https://aatishb.com/maskmath/"><i>The Multiplicative Power of Masks</i></a> by Aatish Bhatia.
 
@@ -141,72 +201,11 @@ and a carpenter who manufactures logarithmic scales, which he uses to visualize 
  <img src="../images/e-learning/carpenter2.png" class="shrinkToFit" height="200">
 </div>
 
-Written and directed by Vijay Ravikumar, filmed and edited by Anushka Meenakshi, and featuring illustrations by Parvathy and acting by Kali Srinivasan, Rency Philip, Sachin Gurjale, and Vijay Ravikumar.
+Written and directed by Vijay Ravikumar, filmed and edited by Anushka Meenakshi, and featuring illustrations by Parvathy and acting by Kali Srinivasan, Rency Philip, Sachin Gurjale, and Vijay Ravikumar. Created for and funded by <a href="https://www.cuemath.com">Cuemath Pvt Ltd</a>.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJsam-uDFxWNej1mA-2RReh7zd4kVHpa6Vbhz3aNc-LAFtEQ/viewform">Click here to try out <i>Math of COVID-19: Understanding Exponential Growth</i></a>.
 
-<br>
-<hr>
-<hr>
 
-## <i>The Math of Voting</i>
-
-
-
-The mayor is back in <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBShrlr15pKe_lyyhwluQkqjq8YzqQcpVzRYVIZ9_OHfT2xg/viewform
-">this interactive module</a>, and he's more distressed than ever! This time he's facing sleepness nights due to the upcoming mayoral election. While he is happy to retire from his post, he's deeply suspicious of the two polarizing candidates, and he would like to devise a mathematically perfect voting system before his term ends.
-
-
-
-As the mayor struggles with this formidable task, he begins receiving late-night visitations from the Three Election Ghosts!
-
-<div class="flex-container">
- <img src="../images/e-learning/sleeping1.png" class="shrinkToFit" height="200">
-
- <img src="../images/e-learning/sleeping2.png" class="shrinkToFit" height="200">
-</div>
-
-
-The Ghost of Elections Past explains how our historical system of counting votes has made it easy for politicians to win elections without winning the popular vote.
-
-<div class="flex-container">
- <img src="../images/e-learning/sleeping3.png" class="shrinkToFit" height="200">
-
- <img src="../images/e-learning/past1.png" class="shrinkToFit" height="200">
-</div>
-
-
-The Ghost of Elections Present reveals how present day politicians redraw district boundaries (a practice known as gerrymandering) in order to game election outcomes.
-
-<div class="flex-container">
- <img src="../images/e-learning/present1.png" class="shrinkToFit" height="200">
-
- <img src="../images/e-learning/present2.png" class="shrinkToFit" height="200">
-</div>
-
-
-The Ghost of Elections Yet to Come describes some fairer alternatives to our current 'plurality voting' system such as
-ranked voting and score voting.
-
-<div class="flex-container">
- <img src="../images/e-learning/future1.png" class="shrinkToFit" height="200">
-
- <img src="../images/e-learning/future2.png" class="shrinkToFit" height="200">
-</div>
-
-
-While pondering these alternate voting systems, the mayor discovers the Condorcet Paradox and Arrow's Theorem.  In the end, there is no perfect voting system, but we can still use mathematics to make our systems fairer and more democratic.
-
-
-<div class="flex-container">
- <img src="../images/e-learning/ghost-banner.png" style="width: 80%">
-</div>
-
-
-Written and directed by Vijay Ravikumar, filmed and edited by Anushka Meenakshi and Tarun Saldana, and featuring illustrations by Parvathy and acting by Kali Srinivasan, Rency Philip, Sachin Gurjale, and Vinod Ravindran.
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfBShrlr15pKe_lyyhwluQkqjq8YzqQcpVzRYVIZ9_OHfT2xg/viewform
-">Click here to try out <i>The Math of Voting</i></a>.
 
 
 
