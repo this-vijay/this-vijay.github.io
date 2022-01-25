@@ -154,7 +154,7 @@ Written and directed by Vijay Ravikumar, filmed and edited by Anushka Meenakshi,
 
 
 The mayor is back in <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBShrlr15pKe_lyyhwluQkqjq8YzqQcpVzRYVIZ9_OHfT2xg/viewform
-">this interactive module</a>, and he's more distressed as ever! This time he's facing sleepness nights due to the upcoming mayoral election. While he is happy to retire from his post, he's deeply suspicious of the two polarizing candidates, and he would like to devise a mathematically perfect voting system before his term ends.
+">this interactive module</a>, and he's more distressed than ever! This time he's facing sleepness nights due to the upcoming mayoral election. While he is happy to retire from his post, he's deeply suspicious of the two polarizing candidates, and he would like to devise a mathematically perfect voting system before his term ends.
 
 
 
