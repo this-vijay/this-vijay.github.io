@@ -166,7 +166,7 @@ Partly based on the web interactive <a href="https://aatishb.com/maskmath/"><i>T
 
 ## <i>Math of COVID-19: Understanding Exponential Growth</i>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeJsam-uDFxWNej1mA-2RReh7zd4kVHpa6Vbhz3aNc-LAFtEQ/viewform">This interactive module</a> examines how quickly a pandemic can spread, by introducing exponential growth, the quantity <i>R</i>-nought, and logarithmic scales.
+<a href="https://this-vijay.github.io/covid-math/">This interactive module</a> examines how quickly a pandemic can spread, by introducing exponential growth, the quantity <i>R</i>-nought, and logarithmic scales.
 
 <div class="flex-container">
  <img src="../images/e-learning/doctor2.png" class="shrinkToFit" height="200">
@@ -203,7 +203,7 @@ and a carpenter who manufactures logarithmic scales, which he uses to visualize 
 
 Written and directed by Vijay Ravikumar, filmed and edited by Anushka Meenakshi, and featuring illustrations by Parvathy and acting by Kali Srinivasan, Rency Philip, Sachin Gurjale, and Vijay Ravikumar. Created for and funded by <a href="https://www.cuemath.com">Cuemath Pvt Ltd</a>.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeJsam-uDFxWNej1mA-2RReh7zd4kVHpa6Vbhz3aNc-LAFtEQ/viewform">Click here to try out <i>Math of COVID-19: Understanding Exponential Growth</i></a>.
+<a href="https://this-vijay.github.io/covid-math/">Click here to try out <i>Math of COVID-19: Understanding Exponential Growth</i></a>.
 
 
 
