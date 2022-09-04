@@ -30,7 +30,7 @@ This is the trailer for an online course, <a href="https://this-vijay.github.io/
 
 I’ve attempted to value learners’ time and keep them engaged by creating a <a href="https://this-vijay.github.io/vision-math/">'scrollable', interactive, e-book format</a>, designed with Aatish Bhatia.
 
-In addition to keeping the lecture videos succinct, we’ve also created high production quality intro videos to each ‘chapter’, which motivate the big ideas of the week.  These videos include special effects, animation, and even professional actors.
+In addition to keeping the lecture videos succinct, we’ve also created <a href="https://this-vijay.github.io/vision-math/chapter-1.html">high production quality intro videos to each ‘chapter’</a>, which motivate the big ideas of the week.  These videos include special effects, animation, and even professional actors.
 
  Following <i>Geometry of Vision</i>, I plan to create subsequent minicourses: <i>The Topology of Movement</i>, and <i>The Structure of Sound</i>.  Once they're all up, students can take them together as a semester-long course, <i>Our Mathematical Senses</i>.
 
