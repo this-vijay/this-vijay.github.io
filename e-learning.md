@@ -26,11 +26,11 @@ Prior to this, I worked for the company <a href="https://www.cuemath.com">Cuemat
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
 
-This is the trailer for an online course, <a href="https://this-vijay.github.io/vision-math/"><i>The Geometry of Vision</i></a>, which I created for NPTEL.  The course examines the math through which we make visual sense of the world around us.  Somehow we are able to construct an intricate 3D understanding of our surroundings from 2D visual snapshots, and in order to do this our brain calls upon various deep, elegant, and ancient mathematical principles.
+This is the trailer for an online course, <a href="https://this-vijay.github.io/vision-math/"><i>The Geometry of Vision</i></a>, which I created for NPTEL.  In the course we explore how one of our senses – our sense of sight – relies on our brain’s seemingly hardwired understanding of the Projective Plane, a fascinating yet counterintuitive geometric space.
 
 I’ve attempted to value learners’ time and keep them engaged by creating a <a href="https://this-vijay.github.io/vision-math/">'scrollable', interactive, e-book format</a>, designed with Aatish Bhatia.  Learners can scroll through a given lecture, watching short, visually engaging videos interspersed with interactive questions, activities, and graphics.
 
-In addition to keeping the lecture videos short and succinct, we’ve also created high production intro videos to each ‘chapter’ which motivate the big ideas of the week, and weave them into a broader narrative.  These videos include special effects, animation, and even professional actors.
+In addition to keeping the lecture videos succinct, we’ve also created high production intro videos to each ‘chapter’ which motivate the big ideas of the week, and weave them into a broader narrative.  These videos include special effects, animation, and even professional actors.
 
  Following <i>Geometry of Vision</i>, I plan to create subsequent minicourses: <i>The Topology of Movement</i>, and <i>The Structure of Sound</i>.  Once they're all up, students can take them together as a semester-long course, <i>Our Mathematical Senses</i>.
 
