@@ -20,7 +20,7 @@ Here are some of the performances I've been involved in:
 </div>
 
 
-Inspired by Eduardo Galeano's <i>Mirrors: Stories of Almost Everyone</i>, <i>Shady Fellows</i> merges shadow play and live performance to examine our shifting relationships to the literal and figurative shadows that populate our world.
+Merging shadow play and live performance, <i>Shady Fellows</i>  examines our shifting relationships to the literal and figurative shadows that populate our world.  It was inspired by Eduardo Galeano's <i>Mirrors: Stories of Almost Everyone</i>.
 
 <figure>
  <div class="flex-container">
