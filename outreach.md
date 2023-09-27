@@ -77,11 +77,11 @@ When you leave your laddu unattended, what typically happens?  Yes, here come th
 In a plane, that may not sound so impressive, since the shortest path is just the unique straight line connecting the ant to the food.  But ants can find food on any surface you can imagine.
 
 <div class="flex-container">
- <img src="../images/outreach/ant1.png" class="shrinkToFit" height="250">
+ <img src="../images/outreach/ant1.png" class="shrinkToFit" height="200">
 
- <img src="../images/outreach/ant2.png" class="shrinkToFit" height="250">
+ <img src="../images/outreach/ant2.png" class="shrinkToFit" height="200">
 
- <img src="../images/outreach/ant3.png" class="shrinkToFit" height="250">
+ <img src="../images/outreach/ant3.png" class="shrinkToFit" height="200">
 </div>
 
 This talk is heavy on physical props.  Beginning with boxes, and then progressing to cones, cylinders, spheres, and hyperbolic planes, we explore how shortest paths are always locally straight, or <i>geodesic</i>, but their appearance often defies our expectations!  Moreover geodesic paths are not always the shortest!  I gave this talk at Forays, IIT Madras, in 2022.
@@ -97,11 +97,11 @@ Have you ever tied a knot?  Maybe while lacing your shoelaces?  Or to keep a bag
 Knots can behave like some mathematical objects you already know quite well.  And knots will help you understand those familiar objects in a surprising new way!
 
 <div class="flex-container">
- <img src="../images/outreach/tangle1.jpg" class="shrinkToFit" height="250">
+ <img src="../images/outreach/tangle1.jpg" class="shrinkToFit" height="230">
 
- <img src="../images/outreach/tangle2.jpg" class="shrinkToFit" height="250">
+ <img src="../images/outreach/tangle2.jpg" class="shrinkToFit" height="230">
 
- <img src="../images/outreach/tangle3.jpg" class="shrinkToFit" height="250">
+ <img src="../images/outreach/tangle3.jpg" class="shrinkToFit" height="230">
 </div>
 
 The familiar objects in question are the rational numbers, and this activity explores a surprising correspondence between rational numbers and
