@@ -15,6 +15,48 @@ Over the past few years I've given a number of general audience talks for high s
 
 <hr>
 
+
+## The geodesic journey of the hungry ant
+
+When you leave your laddu unattended, what typically happens?  Yes, here come the ants!  They are true masters of finding the shortest, fastest path to food!
+In a plane, that may not sound so impressive, since the shortest path is just the unique straight line connecting the ant to the food.  But ants can find food on any surface you can imagine.
+
+<div class="flex-container">
+ <img src="../images/outreach/ant1.png" class="shrinkToFit" height="150">
+
+ <img src="../images/outreach/ant2.png" class="shrinkToFit" height="150">
+
+ <img src="../images/outreach/ant3.png" class="shrinkToFit" height="150">
+</div>
+
+This talk is heavy on physical props.  Beginning with boxes, and then progressing to cones, cylinders, spheres, and hyperbolic planes, we explore how shortest paths are always locally straight, or \emph{geodesic}, but their appearance often defies our expectations!  Moreover geodesic paths are not always the shortest!  I gave this talk at Forays, IIT Madras, in 2022.
+For the worksheet <a href="../images/worksheets/geodesic-worksheet.pdf">click here</a>.
+
+The talk is partly based on the book \emph{The Heart of Mathematics} by Ed Burger and Michael Starbird, and the images in my worksheet copied
+directly from there.
+<hr>
+
+## Untangling a knot, with numbers!
+
+Have you ever tied a knot?  Maybe while lacing your shoelaces?  Or to keep a bag from opening?  But did you know that knots have a secret life? 
+Knots can behave like some mathematical objects you already know quite well.  And knots will help you understand those familiar objects in a surprising new way!
+
+<div class="flex-container">
+ <img src="../images/outreach/tangle1.jpg" class="shrinkToFit" height="150">
+
+ <img src="../images/outreach/tangle2.jpg" class="shrinkToFit" height="150">
+
+ <img src="../images/outreach/tangle3.jpg" class="shrinkToFit" height="150">
+</div>
+
+The familiar objects in question are the rational numbers, and this activity explores a surprising correspondence between rational numbers and
+a special class of tangles.  I facilitated this activity in Tamil at Kanita Kanagam, IMSc, in 2022.
+For the worksheet <a href="../images/worksheets/tangle-worksheet-update.pdf">click here</a>.
+
+The talk is heavily based on the excellent writings and videos of Tom Davis and James Tanton, on the same topic, as well
+as videos by John Conway.
+<hr>
+
 ## Geometry of vision
 
 Which of the following viewpoints of the tiled floor would be easiest to draw?
