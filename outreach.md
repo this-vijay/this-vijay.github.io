@@ -90,7 +90,7 @@ For the worksheet <a href="../images/worksheets/geodesic-worksheet.pdf">click he
 <div class="flex-container">
  <img src="../images/outreach/geodesic-talk-1.jpg" class="shrinkToFit" height="200">
 
- <img src="../images/outreach/geodesic-talk-2.jpg.png" class="shrinkToFit" height="200">
+ <img src="../images/outreach/geodesic-talk-2.jpg" class="shrinkToFit" height="200">
 
 </div>
 
