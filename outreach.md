@@ -87,6 +87,15 @@ In a plane, that may not sound so impressive, since the shortest path is just th
 This talk is heavy on physical props.  Beginning with boxes, and then progressing to cones, cylinders, spheres, and hyperbolic planes, we explore how shortest paths are always locally straight, or <i>geodesic</i>, but their appearance often defies our expectations!  Moreover geodesic paths are not always the shortest!  I gave this talk at Forays, IIT Madras, in 2023.
 For the worksheet <a href="../images/worksheets/geodesic-worksheet.pdf">click here</a>.
 
+<div class="flex-container">
+ <img src="../images/outreach/geodesic-talk-1.jpg" class="shrinkToFit" height="200">
+
+ <img src="../images/outreach/geodesic-talk-2.jpg.png" class="shrinkToFit" height="200">
+
+</div>
+
+
+
 The talk is partly based on the book <i>The Heart of Mathematics</i> by Ed Burger and Michael Starbird, and the images in my worksheet copied
 directly from there.
 <hr>
