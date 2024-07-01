@@ -3,6 +3,7 @@ layout: mathematics
 title: Online Education
 permalink: /e-learning/
 youtubeId1: OFADTURH-yw
+youtubeId2: L2FPP7yJMOk
 keyword: e-learning
 subnav_order: 4
 ---
@@ -32,7 +33,14 @@ I’ve attempted to value learners’ time and keep them engaged by creating a <
 
 In addition to keeping the lecture videos succinct, we’ve also created <a href="https://this-vijay.github.io/vision-math/chapter-1.html">high production quality intro videos to each ‘chapter’</a>, which motivate the big ideas of the week.  These videos include special effects, animation, and even professional actors.
 
- Following <i>Geometry of Vision</i>, I plan to create subsequent minicourses: <i>The Topology of Movement</i>, and <i>The Structure of Sound</i>.  Once they're all up, students can take them together as a semester-long course, <i>Our Mathematical Senses</i>.
+
+{% include youtubePlayer.html id=page.youtubeId2 %}
+
+
+ Following <i>Geometry of Vision</i>, I created a second online workshop for NPTEL, <a href="https://this-vijay.github.io/movement-math/"><i>The Topology of Movement</i></a>, which continues the format of an <a href="https://this-vijay.github.io/vision-math/">interactive e-book</a>, and explores spatial orientation, 3-D rotations, and the quaternion numbers through movement, puppetry, and the 3-D animation software Blender.
+
+
+I plan to create a third mini-course, <i>The Structure of Sound</i>.  Once they're all up, students can take them together as a semester-long course, <i>Our Mathematical Senses</i>.
 
 As part of NPTEL, the online course platform run by the Ministry of Education, these courses are open access, and freely available 
 for anyone to use.  In fact, any student at any Indian college or university can take them for credit.

@@ -96,8 +96,7 @@ For the worksheet <a href="../images/worksheets/geodesic-worksheet.pdf">click he
 
 
 
-The talk is partly based on the book <i>The Heart of Mathematics</i> by Ed Burger and Michael Starbird, and the images in my worksheet copied
-directly from there.
+The talk is partly based on the book <i>The Heart of Mathematics</i> by Ed Burger and Michael Starbird, and the images in my worksheet are copied directly from there.
 <hr>
 
 ## Untangling a knot, with numbers!
